@@ -44,7 +44,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/cosmin-tudose/
   - icon: window-maximize
-    icon_pack: solid
+    icon_pack: fas
     link: https://www.tudose.science/
 
 # Highlight the author in author lists? (true/false)
