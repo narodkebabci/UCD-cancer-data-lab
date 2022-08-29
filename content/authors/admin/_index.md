@@ -1,25 +1,28 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Colm Ryan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University College Dublin
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a computational biologist and use large-scale data science methods to understand how biological systems function. A particular focus of my group is the development of approaches to understand how mutations in cancer alter molecular interaction networks and to identify ways to target these alterations therapeutically.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Biology
+  - Machine Learning
+  - Genetic Interactions
+  - Synthetic Lethality
+  - Protein Interaction Networks
+  - Cancer
 
 education:
   courses:
@@ -40,10 +43,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'colm.ryan@ucd.ie'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/colmr
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
