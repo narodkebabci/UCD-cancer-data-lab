@@ -17,10 +17,12 @@ organizations:
 bio: I am a Ph.D. Student in UCD. 
 
 interests:
-  - Computational Biology
-  - Machine Learning
-  - Synthetic Lethality
+  - Proteomics
+  - Transcriptomics
+  - Genomics
   - Cancer
+  - Machine Learning
+  - Regression
 
 education:
   courses:
