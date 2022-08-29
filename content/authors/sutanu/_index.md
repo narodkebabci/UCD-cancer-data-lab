@@ -47,12 +47,13 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/CsSutanu
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.in/citations?user=blr62g0AAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sutanu-nandi-590411182/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.in/citations?user=blr62g0AAAAJ&hl=en
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -63,4 +64,4 @@ user_groups:
   - Postdoctoral Researchers
 ---
 
-Sutanu is a DevelopMed Marie Skłodowska-Curie Postdoctoral Fellow working with the Professor Ryan’s Group at System Biology Ireland, University College Dublin, Ireland. By training he is a computer scientist. He did his undergraduate degree and Master in Computer Science. After that, he joined as a DST Inspire fellow at CSIR-National Chemical Laboratory in India to pursue his Ph.D. degree. As a part of his Doctoral research, he has had the opportunity to learn various Machine Learning algorithms and develop strategies for the prediction of essential genes. His research uses multidisciplinary knowledge from system biology, computational biology, artificial intelligence, and machine learning to understand complex biological problems. His present research involves on development of a machine learning framework to decipher and predict context-specific synthetic lethality in cancer.
+Sutanu is a DevelopMed Marie Skłodowska-Curie Postdoctoral Fellow working with Dr. Ryan's Group at System Biology Ireland, University College Dublin, Ireland. By training, he is a computer scientist. He did his undergrad and master's degree in Computer Science. Next, he joined as a DST Inspire fellow at CSIR-National Chemical Laboratory in India to pursue his Ph.D. As a part of his doctoral research, he has had the opportunity to learn various machine learning algorithms and develop strategies for predicting essential genes. His research uses multidisciplinary knowledge from systems biology, computational biology, artificial intelligence, and machine learning to understand complex biological problems. His present study involves developing a machine learning framework to decipher and predict context-specific synthetic lethality in cancer.
