@@ -22,9 +22,15 @@ content:
     - Administration
     - Visitors
     - Alumni
+
 design:
   show_social: true
   show_role: true
   show_interests: false
-  show_organizations: true
+  show_organizations: false
+
+design:
+  columns: '2'
+  view: 2
+  
 ---
