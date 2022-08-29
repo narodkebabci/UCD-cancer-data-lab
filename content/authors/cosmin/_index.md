@@ -43,7 +43,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/cosmin-tudose/
-  - icon: window-flip
+  - icon: window-maximize
     icon_pack: fas
     link: https://www.tudose.science/
 
