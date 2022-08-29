@@ -28,9 +28,5 @@ design:
   show_role: true
   show_interests: false
   show_organizations: false
-
-design:
-  columns: '2'
-  view: 2
   
 ---
