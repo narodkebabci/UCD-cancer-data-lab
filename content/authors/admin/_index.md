@@ -11,7 +11,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
   - name: University College Dublin
-    url: ''
+    url: 'https://people.ucd.ie/colm.ryan/about'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a computational biologist and use large-scale data science methods to understand how biological systems function. A particular focus of my group is the development of approaches to understand how mutations in cancer alter molecular interaction networks and to identify ways to target these alterations therapeutically.
@@ -26,15 +26,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computational Biology
+      institution: University College Dublin
+      year: 
+    - course: MSc in
+      institution: 
+      year: 
+    - course: BSc in Computer Science
+      institution: Trinity College Dublin
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,16 +43,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'colm.ryan@ucd.ie'
+    link: 'mailto:colm.ryan@ucd.ie'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/colmr
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=laT87KUAAAAJ&hl=en&oi=ao
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,6 +69,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Colm is an assistant professor. His research interests include 
