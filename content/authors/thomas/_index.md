@@ -18,7 +18,7 @@ bio: I am a Ph.D. Student in UCD.
 
 interests:
   - Cancer
-  - Childhood And Adolescent Leukaemia
+  - Childhood Leukaemia
 
 education:
   courses:
