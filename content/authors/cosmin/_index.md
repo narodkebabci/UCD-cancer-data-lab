@@ -17,9 +17,11 @@ organizations:
 bio: I am a Ph.D. Student in UCD. 
 
 interests:
-  - Cancer
+  - Cancer Genomics
   - Childhood Leukaemia
-  - Genomics
+  - Systems Biology
+  - Data Visualization
+  - Data Science
 
 education:
   courses:
@@ -41,8 +43,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/cosmin-tudose/
-  - icon: github
-    icon_pack: fab
+  - icon: fa-browser
+    icon_pack: fa-duotone
     link: https://www.tudose.science/
 
 # Highlight the author in author lists? (true/false)
