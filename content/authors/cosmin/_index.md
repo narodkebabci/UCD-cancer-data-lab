@@ -18,17 +18,14 @@ bio: I am a Ph.D. Student in UCD.
 
 interests:
   - Cancer
-  - childhood leukaemia
+  - Childhood Leukaemia
   - Genomics
 
 education:
   courses:
-    - course: MSci in Genetics
+    - course: Genetics MSci
       institution: University of Nottingham, UK
       year: 2020
-    - course: BSc in 
-      institution: 
-      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,4 +54,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-Cosmin obtained his MSci in Genetics at the University of Nottingham, UK in 2020. In the same year started his PhD on the CRT Genomics Data Science programme, co-funded by the European Commission’s Marie Sklodowska Curie Actions (MSCA) programme. He is now doing his PhD in the Bond and Ryan groups, in Systems Biology Ireland, UCD, working on defining molecular vulnerabilities in childhood leukaemia through biological network analysis. He is primarily interested in cancer genomics, childhood leukaemia, systems biology and data visualization.
+Cosmin obtained his MSci in Genetics at the University of Nottingham, UK, in 2020. The same year started his Ph.D. in the CRT Genomics Data Science programme, co-funded by the European Commission’s Marie Sklodowska Curie Actions (MSCA) programme. He is now doing his Ph.D. in the Bond and Ryan groups in Systems Biology Ireland, UCD, working on defining molecular vulnerabilities in childhood leukaemia through biological network analysis. He is primarily interested in cancer genomics, childhood leukaemia, systems biology, and data visualization.
