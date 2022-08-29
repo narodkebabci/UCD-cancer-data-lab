@@ -43,8 +43,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/cosmin-tudose/
-  - icon: fa-browser
-    icon_pack: fa-duotone
+  - icon: browser
+    icon_pack: duotone
     link: https://www.tudose.science/
 
 # Highlight the author in author lists? (true/false)
