@@ -7,8 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
+  Welcome!
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+**Ryan Group** is interested in how gene loss rewires tumour cells and how this may be exploited to target them therapeutically. A particular focus of the group is the identification of synthetic lethality - a phenomenon whereby mutation of one gene renders tumour cells especially sensitive to the perturbation of a second gene.
