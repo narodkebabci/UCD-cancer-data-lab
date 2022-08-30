@@ -17,11 +17,17 @@ design:
   css_class:
 ---
 
-# Dark Mode Ember
-<a class="twitter-timeline" data-lang="en" data-theme="dark" href="https://twitter.com/colmr?ref_src=twsrc%5Etfw">Tweets by colmr</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline"
+   data-lang="en"
+   data-theme="light"
+   href="https://twitter.com/colmr?ref_src=twsrc%5Etfw"
+   data-width="300"
+   data-height="300"
+   data-tweet-limit="3">
+Tweets by @colmr
+</a>
 
-# Light Mode Embed
-<a class="twitter-timeline" data-lang="en" data-theme="light" href="https://twitter.com/colmr?ref_src=twsrc%5Etfw">Tweets by colmr</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 
