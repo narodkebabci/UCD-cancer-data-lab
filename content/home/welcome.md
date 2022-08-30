@@ -3,7 +3,7 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget: hero # See https://wowchemy.com/docs/page-builder/
+widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 20 # Order that this section will appear.
 title: |
@@ -16,6 +16,12 @@ design:
   css_style:
   css_class:
 ---
+
+# Dark Mode Ember
+<a class="twitter-timeline" data-lang="en" data-theme="dark" href="https://twitter.com/colmr?ref_src=twsrc%5Etfw">Tweets by colmr</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# Light Mode Embed
+<a class="twitter-timeline" data-lang="en" data-theme="light" href="https://twitter.com/colmr?ref_src=twsrc%5Etfw">Tweets by colmr</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 
