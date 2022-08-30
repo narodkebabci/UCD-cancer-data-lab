@@ -14,7 +14,7 @@ organizations:
     url: 'https://people.ucd.ie/colm.ryan/about'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computational biologist and use large-scale data science methods to understand how biological systems function. A particular focus of my group is the development of approaches to understand how mutations in cancer alter molecular interaction networks and to identify ways to target these alterations therapeutically.
+bio: 
 
 interests:
   - Computational Biology
@@ -69,4 +69,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Colm is an assistant professor. His research interests include 
+Colm is a computational biologist and uses large-scale data science methods to understand how biological systems function. A particular focus of his group is the development of approaches to understand how mutations in cancer alter molecular interaction networks and to identify ways to target these alterations therapeutically.
