@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: contact
 
 headless: true
 
@@ -28,9 +28,5 @@ content:
 
 design:
   columns: '1'
-  view: 
-  background:
-    color: 
-    text_color_light: 
   
 ---
