@@ -4,6 +4,8 @@ widget: contact
 
 headless: true
 
+active: true
+
 weight: 20
 
 content:
