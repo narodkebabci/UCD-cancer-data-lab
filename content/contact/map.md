@@ -7,7 +7,7 @@ active: true
 
 title: Where are we?
 
-weight: 20
+weight: 30
 
 content:
   address:
