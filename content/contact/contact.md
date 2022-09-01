@@ -5,6 +5,8 @@ headless: true
 
 active: true
 
+title: Where are we?
+
 weight: 20
 
 content:
@@ -22,6 +24,6 @@ content:
 design:
   columns: '2'
   background:
-    color:'whitesmoke'
+    color:'lightgrey'
  
 ---
