@@ -9,8 +9,8 @@ weight: 20
 content:
   address:
     street: Conway Institute, University College Dublin
-    city: Belfield
-    region: Dublin
+    city: Belfield, Dublin 4
+    region: 
     postcode:
     country: Ireland
     country_code: IE
