@@ -3,6 +3,7 @@
 widget: pages
 headless: true
 weight: 40
+active: false
 
 title: Latest News
 subtitle:
