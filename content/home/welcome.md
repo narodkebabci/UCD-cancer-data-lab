@@ -1,6 +1,6 @@
 ---
 
-widget: portfolio 
+widget: blank 
 
 headless: true 
 
@@ -9,10 +9,9 @@ weight: 20
 title: Welcome!
 
 design:
-  columns: '2'
-  view: 5
-  css_style:
-  css_class:
+  columns: '1'
+  view: 2
+  flip_alt_rows: true
   
 ---
 
