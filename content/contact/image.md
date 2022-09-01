@@ -12,17 +12,22 @@ weight: 20
 title:
 subtitle:
 
+content:
+  address:
+    street: Conway Institute, University College Dublin
+    city: Belfield
+    region: Dublin
+    postcode:
+    country: Ireland
+    country_code: IE
+  coordinates:
+    latitude: '53.31090931483425'
+    longitude: '-6.225138238836217'
+
 design:
-  columns: '1'
-  background:
-    image: contact.jpg
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ['20px', '0', '20px', '0']
-advanced:
-  css_class: fullscreen
+  columns: '2'
+  
+# advanced:
+#   css_class: fullscreen
+
 ---
