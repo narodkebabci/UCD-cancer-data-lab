@@ -19,7 +19,7 @@ content:
   email: colm.ryan@ucd.ie
 #  phone: 
   address:
-    street: UCD Conway Institute, University College Dublin
+    street: Conway Institute, University College Dublin
     city: Belfield, Dublin 4
     region: 
     postcode: 
@@ -28,20 +28,12 @@ content:
   coordinates:
     latitude: '53.31090931483425'
     longitude: '-6.225138238836217'
-#  directions: 
-#  office_hours:
-#    - 
-#    - 
- 
-  #contact_links:
-  #  - icon: comments
-  #    icon_pack: fas
-  #    name: Discuss on Forum
-  #    link: 'https://discourse.gohugo.io'
-
 
 design:
   columns: '2'
-  
+  view: 5
+  background:
+    color: 'navy'
+    text_color_light: true
   
 ---
