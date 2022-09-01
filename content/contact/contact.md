@@ -24,6 +24,6 @@ content:
 design:
   columns: '2'
   background:
-    color:'lightgrey'
+    color:
  
 ---
