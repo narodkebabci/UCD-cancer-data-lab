@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: contact
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -17,17 +17,6 @@ content:
   autolink: true
 
   email: colm.ryan@ucd.ie
-#  phone: 
-#  address:
-#    street: Conway Institute, University College Dublin
-#    city: Belfield, Dublin 4
-#    region: 
-#    postcode: 
-#    country: Ireland
-#    country_code: IE
-#  coordinates:
-#    latitude: '53.31090931483425'
-#    longitude: '-6.225138238836217'
 
   contact_links:
     - icon: twitter
@@ -40,10 +29,10 @@ content:
       link: 'https://www.linkedin.com/in/colmjryan/'
 
 design:
-  columns: '2'
-  view: 5
+  columns: '1'
+  view: 
   background:
-    color: 'grey'
-    text_color_light: true
+    color: 
+    text_color_light: 
   
 ---
