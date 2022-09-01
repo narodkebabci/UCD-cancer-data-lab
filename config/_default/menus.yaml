@@ -17,7 +17,7 @@ main:
     url: publication
     weight: 40
   - name: Contact
-    url: /#contact
+    url: /contact
     weight: 50
   - name: Join Us
     url: vacancies
