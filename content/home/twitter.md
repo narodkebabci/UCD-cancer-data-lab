@@ -7,6 +7,9 @@ headless: true
 
 weight: 20
 
+design:
+  view: 5
+
 <a class="twitter-timeline"
    data-lang="en"
    data-theme="light"
