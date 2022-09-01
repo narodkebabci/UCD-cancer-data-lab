@@ -1,5 +1,4 @@
 ---
-
 widget: contact
 
 headless: true
