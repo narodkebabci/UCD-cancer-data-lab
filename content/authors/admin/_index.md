@@ -28,13 +28,10 @@ education:
   courses:
     - course: PhD in Computational Biology
       institution: University College Dublin
-      year: 
-    - course: MSc in
-      institution: 
-      year: 
+      year: 2012
     - course: BSc in Computer Science
       institution: Trinity College Dublin
-      year: 
+      year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
