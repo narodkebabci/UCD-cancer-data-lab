@@ -7,7 +7,7 @@ active: true
 
 title: Where are we?
 
-weight: 30
+weight: 10
 
 content:
   address:
@@ -23,6 +23,7 @@ content:
 
 design:
   columns: '2'
+  view: 2
   spacing:
     padding: ["20px", "0", "20px", "0"]
  
