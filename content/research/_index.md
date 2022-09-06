@@ -1,12 +1,14 @@
 ---
 title: Research in brief
+cms_exclude: true
 
-view: showcase
+# View.
+view: compact
+flip_alt_rows: false
 
-# Optional banner image (relative to `assets/media/` folder).
+# Optional header image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
   
 ---
-
