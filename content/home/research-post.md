@@ -4,7 +4,7 @@
 # See https://wowchemy.com/docs/widget/pages/
 widget: pages
 headless: true
-active: true
+active: false
 weight: 40
 title: ''
 subtitle: ''
