@@ -13,7 +13,7 @@ content:
   order: desc
   filters:
     folders:
-      - post
+      - research
     tag: ''
     category: ''
     publication_type: ''
