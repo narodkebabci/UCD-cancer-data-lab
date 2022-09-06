@@ -7,18 +7,21 @@ main:
   - name: Home
     url: home
     weight: 10
-  - name: Team
-    url: team
-    weight: 20
   - name: Research
     url: research
-    weight: 30
+    weight: 20
   - name: Publications
     url: publication
+    weight: 30
+  - name: Team
+    url: team
     weight: 40
+  - name: News
+    url: news
+    weight: 50
   - name: Contact
     url: contact
-    weight: 50
+    weight: 60
   - name: Join Us
     url: vacancies
-    weight: 60
+    weight: 70
