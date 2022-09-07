@@ -8,10 +8,20 @@ active: true
 weight: 20
 
 design:
+
   columns: 1
+  
   background:
-    color: navy
+    image: background.jp
+    image_darken: 0.3
+    image_size: cover
+    image_position: center
+    image_parallax: true
+    text_color_light: true
     
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["10px", "0", "10px", "0"]
 
 css_class: d-flex fullscreen align-items-center
 
