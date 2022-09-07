@@ -10,12 +10,11 @@ title: Contact
 weight: 10
 
 content:
+  autolink: true
   email: colm.ryan@ucd.ie
   address:
-    street: Conway Institute, University College Dublin, Belfield, Dublin, Ireland
-    city: 
-    region: 
-    postcode:
+    street: Conway Institute, University College Dublin
+    city: Belfield, Dublin, Ireland
     country: Ireland
     country_code: IE
   coordinates:
