@@ -16,19 +16,7 @@ design:
   columns: 1
   
   view: list
-  
-  background:
-    image: background.jpg
-    image_darken: 0.3
-    image_size: cover
-    image_position: center
-    image_parallax: true
-    text_color_light: true
 
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["30px", "0", "30px", "0"]
-    
 ---
 
 <br>
