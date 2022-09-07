@@ -1,5 +1,6 @@
 ---
 title: Research in brief
+type: page
 cms_exclude: true
 
 # View.
