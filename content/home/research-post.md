@@ -7,7 +7,7 @@ widget: pages
 headless: true
 active: true
 weight: 30
-title: ''
+title: 'Research in brief'
 subtitle: ''
 content:
   offset: 0
@@ -24,7 +24,7 @@ content:
     enable: false
 design:
   columns: '1'
-  view: card
+  view: Masonry
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
