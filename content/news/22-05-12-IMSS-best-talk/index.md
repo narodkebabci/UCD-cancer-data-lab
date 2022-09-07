@@ -3,6 +3,8 @@ title: Swathi wins Best Student Talk at IMSS 2022
 date: 2022-05-18
 image:
   focal_point: 'top'
+authors:
+  - 
 ---
 
 Congratulations to Swathi Ramachandra Upadhya for winning the prize for best student talk at the [Irish Mass Spectrometry Society Conference 2022](https://www.imss.ie).
