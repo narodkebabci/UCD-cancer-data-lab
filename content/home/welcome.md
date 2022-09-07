@@ -1,5 +1,5 @@
 ---
-widget: featured
+widget: blank
 
 headless: true
 
@@ -7,15 +7,13 @@ active: true
 
 weight: 20
 
-content:
-
-  page_type: post
-
 design:
-
   columns: 1
-  
-  view: list
+  background:
+    color: navy
+    
+
+css_class: d-flex fullscreen align-items-center
 
 ---
 
