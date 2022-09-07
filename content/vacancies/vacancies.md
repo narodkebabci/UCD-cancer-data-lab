@@ -4,16 +4,9 @@ headless: true
 
 title: Current positions
 subtitle:
-weight: 10  # section position on page
+weight: 30  # section position on page
 design:
   columns: '1'
-  
-  image:
-  placement: 2
-  caption: 
-  focal_point: "Center"
-  preview_only: false
-  filename: 'assets/media/contact.jpg'
   
   background:
     gradient_angle: 0
@@ -23,6 +16,7 @@ design:
 
 advanced:
   css_class: fullscreen
+  
 ---
 
 <br>
