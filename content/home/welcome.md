@@ -1,6 +1,6 @@
 ---
 
-widget: featured
+widget: blank
 
 headless: true 
 
@@ -8,26 +8,15 @@ active: true
 
 weight: 20 
 
-content:
-  # Page type to display. E.g. post, event, or publication.
-  page_type: post
-  # Choose how much pages you would like to display (0 = all pages)
-  count: 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order: desc
-  # Optionally filter posts by a taxonomy term.
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
 design:
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: list
-  
+  background:
+    image: background.jpg
+    image_darken: 0.3
+    image_size: cover
+    image_position: center
+    image_parallax: true
+    text_color_light: true
+
 ---
 
 <br>
