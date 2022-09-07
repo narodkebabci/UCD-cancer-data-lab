@@ -10,11 +10,9 @@ title: Welcome!
 
 design:
   columns: '1'
-  view: 2
-  flip_alt_rows: true
   
 ---
 
 <br>
 
-**Ryan Group** is interested in how gene loss rewires tumour cells and how this may be exploited to target them therapeutically. A particular focus of the group is the identification of synthetic lethality - a phenomenon whereby mutation of one gene renders tumour cells especially sensitive to the perturbation of a second gene.
+**The UCD Cancer Data Lab**, led by Dr. Colm J. Ryan, use large-scale data analysis to understand how genetic variation in cancer alters molecular interaction networks and to identify ways to target these alterations therapeutically.
