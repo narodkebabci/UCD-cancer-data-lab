@@ -17,7 +17,7 @@ advanced:
 
 We do not currently have any funded positions for postdoctoral fellows or PhD students. However we are interested in supporting applications for fellowships from applicants with an interest in our research. 
 
-It's likely worth investigating for postdoctoral candidates following schemes:
+For postdoctoral candidates, it's worth investigating following schemes:
 - [Irish Research Council Postdoctoral Fellowship](https://research.ie/funding-category/postdoctoral/)
 - EU funded [Marie Skłodowska-Curie fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 
