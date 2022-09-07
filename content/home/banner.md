@@ -14,14 +14,22 @@ weight: 10
 design:
   columns: '1'
   background:
-    color: '#1565c0'
+    gradient_start: '#1565c0'
+    gradient_end: '#ffffff'
+    gradient_angle: 180
     text_color_light: true
 
-# cta:
-#  url: 'https://twitter.com/colmr'
-#  label: Follow Colm Ryan
-#  icon_pack: fab
-#  icon: twitter
+cta:
+  url: '/research'
+  label: Research in brief
+  icon_pack: fas
+  icon: square-terminal
+
+cta:
+  url: '/publication'
+  label: Check our publications!
+  icon_pack: fas
+  icon: books
   
 advanced:
   css_class: fullscreen
