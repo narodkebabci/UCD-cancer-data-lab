@@ -1,6 +1,8 @@
 ---
 title: Congratulations to Dr. Barbara De Kegel!
 date: 2022-08-24
+authors:
+  - 
 ---
 
 Congratulations to Dr. Barbara De Kegel, who passed her viva with flying colours last week.
