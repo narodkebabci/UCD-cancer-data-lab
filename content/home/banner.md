@@ -5,6 +5,8 @@ headless: true
 
 active: true
 
+title: Welcome!
+
 hero_media: bluebanner.jpg
 
 weight: 10 
@@ -12,10 +14,14 @@ weight: 10
 design:
   columns: '1'
   background:
-    gradient_angle: 0
-    gradient_start: '#1565c0'
-    gradient_end: '#ffffff'
-    text_color_light: 
+    color: '#1565c0'
+    text_color_light: true
+
+cta:
+  url: 'https://twitter.com/colmr'
+  label: Follow Colm Ryan
+  icon_pack: fab
+  icon: twitter
   
 advanced:
   css_class: fullscreen
@@ -23,8 +29,6 @@ advanced:
 ---
 
 <br>
-
-## Welcome!
 
 The UCD Cancer Data Lab, led by [Dr. Colm J. Ryan]({{< relref "/authors/admin" >}}), use large-scale data analysis to understand how genetic variation in cancer alters molecular interaction networks and to identify ways to target these alterations therapeutically.
 
