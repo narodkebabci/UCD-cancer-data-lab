@@ -5,27 +5,15 @@ headless: true
 
 active: true
 
-title: Where are we?
+title: Contact
 
 weight: 10
 
 content:
-
-  autolink: true
-  
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-  
   email: colm.ryan@ucd.ie
   address:
-    street: Conway Institute, University College Dublin
-    city: Belfield, Dublin 4
+    street: Conway Institute, University College Dublin, Belfield, Dublin, Ireland
+    city: 
     region: 
     postcode:
     country: Ireland
@@ -36,7 +24,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: Follow
+      name: DM me
       link: 'https://twitter.com/colmr'
     - icon: linkedin
       icon_pack: fab
