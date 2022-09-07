@@ -24,8 +24,8 @@ design:
     image_position: center
     image_size: cover
   spacing:
-    padding: ['0', '20px', '0', '20px']
-# advanced:
-#  css_class: fullscreen
+    padding: ['10px', '0', '10px', '0']
+advanced:
+  css_class: fullscreen
   
 ---
