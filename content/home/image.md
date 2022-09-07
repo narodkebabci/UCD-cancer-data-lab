@@ -16,15 +16,18 @@ title:
 subtitle:
 
 design:
-  columns: '1'
   background:
-    image: bluebanner.jpg
-    image_darken: 0
-    image_parallax: true
-    image_position: center
+    image: background.jpg
+    image_darken: 0.3
     image_size: cover
+    image_position: center
+    image_parallax: true
+    text_color_light: true
+
   spacing:
-    padding: ['10px', '0', '10px', '0']
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["10px", "0", "10px", "0"]
+    
 advanced:
   css_class: fullscreen
   
