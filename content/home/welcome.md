@@ -21,7 +21,7 @@ design:
     
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["30px", "0", "30px", "0"]
+    padding: ["10px", "0", "10px", "0"]
 
 advanced:
   css_class: fullscreen
