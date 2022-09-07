@@ -1,15 +1,18 @@
 ---
+widget: portfolio
+
+headless: true
+
+weight: 
+
 title: Research in brief
-type: page
-cms_exclude: true
+subtitle:
 
-# View.
-view: compact
-flip_alt_rows: false
-
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+content:
   
+design:
+  columns: '1'
+  view: masonry
+  flip_alt_rows: false
+
 ---
