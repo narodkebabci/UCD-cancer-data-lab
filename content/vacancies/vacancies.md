@@ -17,13 +17,13 @@ advanced:
 
 We do not currently have any funded positions for postdoctoral fellows or PhD students. However we are interested in supporting applications for fellowships from applicants with an interest in our research. 
 
-For postdoctoral candidates:
-- [Irish Research Council Postdoctoral Fellowship](https://research.ie/funding-category/postdoctoral/) scheme
+It's likely worth investigating for postdoctoral candidates following schemes:
+- [Irish Research Council Postdoctoral Fellowship](https://research.ie/funding-category/postdoctoral/)
 - EU funded [Marie Skłodowska-Curie fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 
-For PhD:
+For PhD students:
 - Irish Research Council typically have an [annual funding call](https://research.ie/funding-category/postgraduate/)
-- UCD School of Computer Science have [regular calls for PhD Scholarships](https://www.ucd.ie/cs/phdvacancies/ucdschoolofcomputersciencephdscholarships2022round2/). The UCD School of Computer Science PhD fellowships are only suitable for those with strong computational / data science skills, while other fellowships are open to those from different academic backgrounds (e.g. those with a primary degree in biology). 
+- Additionaly, UCD School of Computer Science have [regular calls for PhD Scholarships](https://www.ucd.ie/cs/phdvacancies/ucdschoolofcomputersciencephdscholarships2022round2/). The UCD School of Computer Science PhD fellowships are only suitable for those with strong computational / data science skills, while other fellowships are open to those from different academic backgrounds (e.g. those with a primary degree in biology). 
  
 If you wish to apply for a fellowship with the lab, please send {{% mention "admin" %}} an email with details of your research interests.
 
