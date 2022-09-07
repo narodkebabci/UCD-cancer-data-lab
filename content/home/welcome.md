@@ -6,17 +6,21 @@ headless: true
 
 active: true
 
-weight: 20 
+weight: 15 
 
 design:
+  columns: '1'
   background:
     image: background.jpg
     image_darken: 0.3
-    image_size: cover
-    image_position: center
     image_parallax: true
-    text_color_light: true
-
+    image_position: center
+    image_size: cover
+  spacing:
+    padding: ['10px', '0', '10px', '0']
+advanced:
+  css_class: fullscreen
+  
 ---
 
 <br>
