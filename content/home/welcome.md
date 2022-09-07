@@ -4,6 +4,8 @@ widget: blank
 
 headless: true 
 
+active: false
+
 weight: 20 
 
 title: Welcome!
