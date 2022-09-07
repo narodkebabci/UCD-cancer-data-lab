@@ -4,7 +4,7 @@ type: page
 cms_exclude: true
 
 # View.
-view: card
+view: compact
 flip_alt_rows: false
 
 # Optional header image (relative to `assets/media/` folder).
