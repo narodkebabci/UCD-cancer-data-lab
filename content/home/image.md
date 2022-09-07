@@ -17,14 +17,15 @@ subtitle:
 
 design:
   columns: '1'
-  banner:
+  background:
     image: bluebanner.png
     image_darken: 0
-    image_parallax: false
+    image_parallax: true
     image_position: center
+    image_size: cover
   spacing:
-    padding: ['20px', '0', '20px', '0']
-advanced:
-  css_class: fullscreen
+    padding: ['0', '20px', '0', '20px']
+# advanced:
+#  css_class: fullscreen
   
 ---
