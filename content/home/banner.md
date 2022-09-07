@@ -23,7 +23,7 @@ cta:
   url: '/research'
   label: Research in brief
   icon_pack: fas
-  icon: square-terminal
+  icon: terminal
   
 advanced:
   css_class: fullscreen
