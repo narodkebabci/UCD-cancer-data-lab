@@ -1,11 +1,12 @@
 ---
+
 # A Recent Blog Posts section created with the Pages widget.
 # This section displays recent blog posts from `content/post/`.
 # See https://wowchemy.com/docs/widget/pages/
 widget: pages
 headless: true
-active: false
-weight: 40
+active: true
+weight: 30
 title: ''
 subtitle: ''
 content:
@@ -27,4 +28,5 @@ design:
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
+  
 ---
