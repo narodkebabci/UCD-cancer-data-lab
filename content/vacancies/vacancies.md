@@ -4,16 +4,10 @@ headless: true
 
 title: Current positions
 subtitle:
-weight: 30  # section position on page
+weight: 10  # section position on page
 design:
   columns: '1'
   
-  background:
-    gradient_angle: 0
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
-    text_color_light: false
-
 advanced:
   css_class: fullscreen
   
