@@ -27,11 +27,11 @@ interests:
 education:
   courses:
     - course: MSc in Computer Science
-      institution: University College Dublin
-      year: 0000
+      institution: University College Dublin, Ireland
+      year: 
     - course: BSc in Computer Science and Engineering
-      institution: Visvesvaraya Technological University
-      year: 0000
+      institution: Visvesvaraya Technological University, India
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
