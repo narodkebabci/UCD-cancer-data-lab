@@ -19,15 +19,20 @@ bio: I am a Ph.D. Student in UCD.
 interests:
   - Cancer
   - Childhood Leukaemia
+  - Cell signaling
+  - Epigenetics
 
 education:
   courses:
-    - course: MSc in Biomedical Sciences
-      institution: University of Rouen Normandy
-      year: 
-    - course: BSc in 
-      institution: University of Rouen Normandy
-      year: 
+    - course: MSc in Cancer, Differentiation, Genetics and Biotherapies
+      institution: University of Rouen Normandy, France
+      year: 2018
+    - course: MSc in Physiology, Immunology, Differentiation, and Genetics
+      institution: University of Rouen Normandy, France
+      year: 2017
+    - course: BSc in Biochemistry, Molecular and Cellular Biology, and Physiology
+      institution: University of Rouen Normandy, France
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
