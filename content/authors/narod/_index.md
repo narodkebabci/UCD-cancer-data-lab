@@ -17,18 +17,18 @@ organizations:
 bio: I am a Ph.D. Student in UCD. 
 
 interests:
-  - Computational Biology
-  - Machine Learning
-  - Synthetic Lethality
   - Cancer
+  - CRISPR Screens
+  - Synthetic Lethality
+  - Machine Learning
 
 education:
   courses:
     - course: MSc in Biostatistics and Bioinformatics
-      institution: Acibadem MAA University
+      institution: Acibadem MAA University, Turkey
       year: 2021
     - course: BSc in Genetics and Bioengineering
-      institution: Istanbul Bilgi University
+      institution: Istanbul Bilgi University, Turkey
       year: 2014
 
 # Social/Academic Networking
@@ -42,13 +42,10 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/naar_k
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=1Coz5z8AAAAJ&hl=en&oi=ao
-  - icon: github
+  - icon: linkedin
     icon_pack: fab
-    link: https://github.com/narodkebabci
-
+    link: https://www.linkedin.com/in/narod-kebabci/
+  
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
