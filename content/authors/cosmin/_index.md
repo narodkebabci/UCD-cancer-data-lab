@@ -26,7 +26,7 @@ interests:
 education:
   courses:
     - course: Genetics MSci
-      institution: University of Nottingham, UK
+      institution: University of Nottingham, United Kingdom
       year: 2020
 
 # Social/Academic Networking
