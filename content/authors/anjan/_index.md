@@ -25,8 +25,8 @@ interests:
 
 education:
   courses:
-    - course: BSc in Genetics
-      institution: University College Dublin
+    - course: BSc (Hons) in Genetics
+      institution: University College Dublin, Ireland
       year: 2019
 
 # Social/Academic Networking
