@@ -28,9 +28,9 @@ tags:
   - synthetic lethality
   - CRISPR screens
 
-links:
-  - name: link to paper
-    url: https://www.sciencedirect.com/science/article/pii/S240547122100329X
+# links:
+#  - name: link to paper
+#    url: https://www.sciencedirect.com/science/article/pii/S240547122100329X
 
 ---
 
