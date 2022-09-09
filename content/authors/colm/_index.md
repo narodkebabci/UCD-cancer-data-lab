@@ -66,3 +66,5 @@ user_groups:
   - Principal Investigator
  
 ---
+
+Colm is a computational biologist and uses large-scale data science methods to understand how biological systems function. A particular focus of his group is the development of approaches to understand how mutations in cancer alter molecular interaction networks and to identify ways to target these alterations therapeutically.
