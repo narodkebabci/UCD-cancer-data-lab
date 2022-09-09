@@ -1,5 +1,5 @@
 ---
-title: Research in brief
+title: Research Overview
 type: page
 cms_exclude: true
 
