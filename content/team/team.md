@@ -4,6 +4,8 @@ widget: people
 
 headless: true
 
+active: false
+
 weight: 68
 
 title: Our team 
@@ -13,8 +15,8 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Principal Investigator
-#    - Postdoctoral Researchers
-#    - Ph.D. Students
+    - Postdoctoral Researchers
+    - Ph.D. Students
 #    - Administration
 #    - Visitors
 #    - Alumni
