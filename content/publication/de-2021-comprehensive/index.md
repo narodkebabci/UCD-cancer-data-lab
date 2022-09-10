@@ -33,13 +33,15 @@ tags:
 links:
   - name: Predictions and Supplementary Data
     url: http://www.cancergd.org/static/paralogs/SHAP_charts.html
+  - name: Source Code
+    url: https://github.com/cancergenetics/paralog_SL_prediction
 # url_pdf: '#'
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
-url_source: 'https://github.com/cancergenetics/paralog_SL_prediction'
+# url_source: 'https://github.com/cancergenetics/paralog_SL_prediction'
 url_video: 'https://jrnlclub.org/research-films/prediction-synthetic-cancer'
 
 ---
