@@ -19,7 +19,6 @@ bio: I am a Ph.D. Student in UCD.
 interests:
   - Proteomics
   - Transcriptomics
-  - Genomics
   - Cancer
   - Machine Learning
   - Regression
