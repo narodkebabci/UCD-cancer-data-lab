@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. Student in UCD. 
+bio: '' 
 
 interests:
   - Proteomics
