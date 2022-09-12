@@ -8,12 +8,12 @@ weight: 68
 
 title: Our team 
 
-content:
+# content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups:
-    - Principal Investigator
-    - Team Member
+#  user_groups:
+#    - Principal Investigator
+#    - Team Member
 #    - Ph.D. Students
 #    - Administration
 #    - Visitors
@@ -21,7 +21,7 @@ content:
 
 design:
   show_social: true
-  show_role: false
+  show_role: true
   show_interests: false
   show_organizations: false
 
