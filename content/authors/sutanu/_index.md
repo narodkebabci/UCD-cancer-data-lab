@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoctoral Researcher in UCD.
+bio: ''
 
 interests:
   - Computational Biology
