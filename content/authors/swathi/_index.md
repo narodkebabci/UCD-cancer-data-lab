@@ -53,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - Team Member
 ---
 
 Swathi has a bachelor's degree in Computer Science and Engineering from Visvesvaraya Technological University, India, and M.Sc in Computer Science from University College Dublin, Ireland. Before joining UCD for her master's degree, Swathi worked as a Software Engineer for three years in Siemens Healthcare, India. Her research areas of interest include proteogenomics, cancer, and machine learning. 
