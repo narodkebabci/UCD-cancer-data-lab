@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. Student in UCD. 
+bio: '' 
 
 interests:
   - Cancer Genomics
@@ -53,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - Team Member
 ---
 
 Cosmin obtained his MSci in Genetics at the University of Nottingham, UK, in 2020. The same year started his Ph.D. in the CRT Genomics Data Science programme, co-funded by the European Commission’s Marie Sklodowska Curie Actions (MSCA) programme. He is now doing his Ph.D. in the Bond and Ryan groups in Systems Biology Ireland, UCD, working on defining molecular vulnerabilities in childhood leukaemia through biological network analysis. He is primarily interested in cancer genomics, childhood leukaemia, systems biology, and data visualization.
