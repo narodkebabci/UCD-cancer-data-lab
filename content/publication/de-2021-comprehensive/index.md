@@ -48,9 +48,3 @@ url_video: 'https://jrnlclub.org/research-films/prediction-synthetic-cancer'
 add_badge = true
 
 ---
-
-<div class="ml-3">
-  {{ with $item.Params.doi }}
-  <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-doi="{{ . }}"></div>
-  <span class="__dimensions_badge_embed__" data-doi="{{ . }}" data-style="small_circle" data-hide-zero-citations="true" data-legend="hover-right"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> {{ end }}
-</div>
