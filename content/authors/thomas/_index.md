@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. Student in UCD. 
+bio: '' 
 
 interests:
   - Cancer
@@ -55,8 +55,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-#  - Ph.D. Students
+user_groups: 
+  - Team Member
 
 ---
 
