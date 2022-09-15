@@ -45,6 +45,6 @@ links:
 url_video: 'https://jrnlclub.org/research-films/prediction-synthetic-cancer'
 
 # Almetric and Dimension badges
-add_badge = true
+# add_badge = true
 
 ---
