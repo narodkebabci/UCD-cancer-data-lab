@@ -44,7 +44,7 @@ links:
 # url_source: 'https://github.com/cancergenetics/paralog_SL_prediction'
 url_video: 'https://jrnlclub.org/research-films/prediction-synthetic-cancer'
 
-# Almetric and Dimension badges
-# add_badge = true
+# Add Altmetric badge instead of featured image
+add_badge: true
 
 ---
