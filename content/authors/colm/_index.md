@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Colm Ryan
+title: Colm J. Ryan
 
 # Is this the primary user of the site?
 superuser: true
