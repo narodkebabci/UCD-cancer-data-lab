@@ -1,5 +1,5 @@
 ---
-title: "High-Throughput Quantitative Genetic Interaction Mapping in the Fission Yeast *Schizosaccharomyces pombe*"
+title: "High-Throughput Quantitative Genetic Interaction Mapping in the Fission Yeast <i>Schizosaccharomyces pombe</i>"
 date: 2018-01-01
 publishDate: 2022-09-06T20:00:28.452227Z
 authors: ["Assen Roguev", "Colm J Ryan", "Edgar Hartsuiker", "Nevan J Krogan"]
