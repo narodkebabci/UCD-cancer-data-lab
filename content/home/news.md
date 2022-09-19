@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 headless: true
 weight: 60
 # active: true
@@ -23,8 +23,8 @@ content:
     exclude_past: false
 design:
   columns: '2'
-  view: card
-  flip_alt_rows: true
+  view: masonry
+  flip_alt_rows: false
   background: {}
   spacing: {padding: ["10px", "0", "10px", "0"]}
 advanced:
@@ -32,3 +32,4 @@ advanced:
   css_class: d-flex fullscreen align-items-center
   
 ---
+
