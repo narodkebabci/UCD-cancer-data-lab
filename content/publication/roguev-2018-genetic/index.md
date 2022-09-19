@@ -1,6 +1,6 @@
 ---
 title: "Genetic Interaction Score (S-Score) Calculation, Clustering, and Visualization of Genetic Interaction Profiles for Yeast"
-date: 2018-02-01
+date: 2017-07-21
 publishDate: 2022-09-06T20:00:28.467796Z
 authors: ["Assen Roguev", "Colm J Ryan", "Jiewei Xu", "Isabelle Colson", "Edgar Hartsuiker", "Nevan Krogan"]
 publication_types: ["2"]
