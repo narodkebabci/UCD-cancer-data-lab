@@ -11,7 +11,7 @@ hero_media: 01banner.jpg
 design:
   columns: '1'
   background:
-    gradient_start: '#1565c0'
+    gradient_start: '#C8CED6'
     gradient_end: '#ffffff'
     gradient_angle: 180
     text_color_light: true
@@ -22,8 +22,8 @@ cta:
   icon_pack: fas
   icon: terminal
   
-# advanced:
-#   css_class: fullscreen
+advanced:
+  css_class: fullscreen
   
 ---
 
