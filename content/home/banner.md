@@ -2,7 +2,7 @@
 widget: hero 
 headless: true 
 active: true
-weight = 10
+weight: 10
 
 title: ''
 
