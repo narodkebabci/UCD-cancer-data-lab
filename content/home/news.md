@@ -23,12 +23,12 @@ content:
     exclude_past: false
 design:
   columns: '1'
-  view: Compact
+  view: Masonry
   flip_alt_rows: true
   background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  spacing: {padding: ["10px", "0", "10px", "0"]}
 advanced:
-  css_style: ''
-  css_class: ''
+  css_class: fullscreen
+  css_class: d-flex fullscreen align-items-center
   
 ---
