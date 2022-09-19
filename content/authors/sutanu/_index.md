@@ -26,15 +26,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in 
-      institution: 
-      year: 
-    - course: MSc in
-      institution: 
-      year: 
-    - course: BSc in 
-      institution: 
-      year: 
+    - course: PhD in Science
+      institution: CSIR, National Chemical Laboratory, India
+      year: 2021
+    - course: MSc in Software Techonology
+      institution: VIT University, India
+      year: 2013
+    - course: BSc (Hons) in Computer Science 
+      institution: Midnapore College, Vidyasagar University, India
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
