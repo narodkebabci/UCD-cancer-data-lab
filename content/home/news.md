@@ -2,14 +2,16 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 35
+weight: 40
 active: true
 
 title: Latest News
 subtitle:
 
 content:
-  count: 5
+  offset: 0
+  order: desc
+  count: 
   filters:
     folders:
       - news
@@ -17,12 +19,10 @@ content:
     author: ''
     category: ''
     exclude_featured: false
-  offset: 0
-  order: desc
   page_type: post
 design:
-  view: 3
-  columns: '2'
+  columns: '1'
+  view: Compact
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
