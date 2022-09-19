@@ -22,8 +22,8 @@ content:
     exclude_future: false
     exclude_past: false
 design:
-  columns: '1'
-  view: Masonry
+  columns: '2'
+  view: card
   flip_alt_rows: true
   background: {}
   spacing: {padding: ["10px", "0", "10px", "0"]}
