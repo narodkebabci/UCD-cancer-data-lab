@@ -6,10 +6,10 @@ weight: 10
 
 title: ''
 
-hero_media: bluebanner.jpg
+# hero_media: bluebanner.jpg
 
 design:
-  columns: '1'
+#  columns: '1'
   background:
     gradient_start: '#1565c0'
     gradient_end: '#ffffff'
@@ -22,8 +22,8 @@ design:
 #   icon_pack: fas
 #   icon: terminal
   
-advanced:
-  css_class: fullscreen
+# advanced:
+#   css_class: fullscreen
   
 ---
 
