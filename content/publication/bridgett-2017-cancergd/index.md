@@ -1,7 +1,7 @@
 ---
 title: "CancerGD: a resource for identifying and interpreting genetic dependencies in cancer"
 
-date: 2017-01-01
+date: 2017-06-26"
 
 publishDate: 2022-09-06T20:00:28.445424Z
 
@@ -15,11 +15,20 @@ abstract: "Genes whose function is selectively essential in the presence of canc
 
 featured: false
 
+tags:
+  - genetic interactions
+  - synthetic lethality
+  - cancer
+  - precision medicine
+  - RNAi
+  - CRISPR
+  - network biology
+
 links:
  - name: Source Code
    url: https://github.com/cancergenetics/cancergd
 
-publication: "*Cell systems*"
+publication: "*Cell Systems*"
 
 ---
 
