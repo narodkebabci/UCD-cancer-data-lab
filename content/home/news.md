@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 40
-active: false
+weight: 25
+active: true
 
 title: Latest News
 subtitle:
@@ -22,4 +22,5 @@ content:
 design:
   view: 3
   columns: '1'
+  
 ---
