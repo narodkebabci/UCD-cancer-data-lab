@@ -14,7 +14,7 @@ design:
   background:
     image: welcome.png
     image_darken: 0.3
-    image_size: cover
+    image_size: actual
     image_position: center
     image_parallax: true
     text_color_light: true
