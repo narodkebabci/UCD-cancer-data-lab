@@ -12,7 +12,7 @@ design:
   columns: 1
   
   background:
-    image: background.jpg
+    image: welcome.png
     image_darken: 0.3
     image_size: cover
     image_position: center
