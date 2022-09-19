@@ -6,7 +6,7 @@ weight: 10
 
 title: ''
 
-hero_media: 01banner.jpg
+hero_media: banner.jpg
 
 design:
   columns: '1'
