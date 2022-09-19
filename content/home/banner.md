@@ -6,10 +6,10 @@ weight: 10
 
 title: ''
 
-# hero_media: bluebanner.jpg
+hero_media: 01banner.jpg
 
 design:
-#  columns: '1'
+  columns: '1'
   background:
     gradient_start: '#1565c0'
     gradient_end: '#ffffff'
@@ -27,4 +27,8 @@ design:
   
 ---
 
-The UCD Cancer Data Lab, led by [Dr. Colm J. Ryan]({{< relref "/authors/colm" >}}), use large-scale data analysis to understand how genetic variation in cancer alters molecular interaction networks and to identify ways to target these alterations therapeutically.
+<br>
+
+The UCD Cancer Data Lab, led by [Dr. Colm J. Ryan]({{< relref "/authors/colm" >}}), use large-scale data analysis to understand how genetic variation in cancer alters molecular interaction networks and to identify ways to target these alterations therapeutically.  
+
+{{% cta cta_link="./research/" cta_text="Research in brief →" %}}
