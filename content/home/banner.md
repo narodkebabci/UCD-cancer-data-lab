@@ -6,15 +6,18 @@ weight: 10
 
 title: ''
 
-hero_media: banner.jpg
+# hero_media: banner.jpg
 
 design:
   columns: '1'
+  background:
+    image = "banner.jpg"
 #  background:
 #    gradient_start: '#1565c0'
 #    gradient_end: '#ffffff'
 #    gradient_angle: 180
 #    text_color_light: true
+
 
 cta:
   url: '/research'
