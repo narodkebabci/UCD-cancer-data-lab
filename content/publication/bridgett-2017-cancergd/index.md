@@ -1,7 +1,7 @@
 ---
 title: "CancerGD: a resource for identifying and interpreting genetic dependencies in cancer"
 
-date: 2017-07-26"
+date: "2017-07-26"
 
 publishDate: 2022-09-06T20:00:28.445424Z
 
