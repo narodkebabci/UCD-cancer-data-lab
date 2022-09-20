@@ -5,7 +5,7 @@ date: 2015-02-21
 
 publishDate: 2022-09-06T20:00:28.438399Z
 
-authors: ["Darren J Fitzpatrick", "Colm J Ryan", "Naisha Shah", "Derek Greene", "Cliona Molony", "Denis C Shields"]
+authors: ["Darren J Fitzpatrick", "Colm J. Ryan", "Naisha Shah", "Derek Greene", "Cliona Molony", "Denis C Shields"]
 
 publication_types: ["2"]
 
