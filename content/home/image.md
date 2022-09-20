@@ -16,9 +16,7 @@ title:
 subtitle:
 
 design:
-  background:
-    image: banner.jpg
-    image_size: actual
-    image_position: center
   
 ---
+
+{{< figure src="banner.jpg" >}}
