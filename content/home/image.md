@@ -20,13 +20,5 @@ design:
     image: banner.jpg
     image_size: actual
     image_position: center
-    image_parallax: true
-
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["0", "0", "0", "0"]
-    
-advanced:
-  css_class: fullscreen
   
 ---
