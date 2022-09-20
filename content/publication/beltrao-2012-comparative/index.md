@@ -5,7 +5,7 @@ date: 2012-01-01
 
 publishDate: 2022-09-06T20:00:28.491896Z
 
-authors: ["Pedro Beltrao", "Colm Ryan", "Nevan J Krogan"]
+authors: ["Pedro Beltrao", "Colm J. Ryan", "Nevan J Krogan"]
 
 publication_types: ["2"]
 
