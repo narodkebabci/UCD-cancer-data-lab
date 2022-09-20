@@ -18,7 +18,7 @@ subtitle:
 design:
   background:
     image: banner.jpg
-    image_size: cover
+    image_size: actual
     image_position: center
     image_parallax: true
 
