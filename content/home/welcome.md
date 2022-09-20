@@ -5,7 +5,7 @@ headless: true
 
 active: true
 
-weight: 30
+weight: 20
 
 design:
 
