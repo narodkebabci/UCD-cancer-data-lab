@@ -12,6 +12,8 @@ design:
   columns: '1'
   background:
     image: banner.jpg
+    image_size: cover
+    image_position: center
 #  background:
 #    gradient_start: '#1565c0'
 #    gradient_end: '#ffffff'
