@@ -2,19 +2,20 @@
 widget: hero 
 headless: true 
 active: true
-weight: 20
+weight: 10
 
 title: ''
 
-# hero_media: 01banner.jpg
+# add lab logo
+# hero_media: 01banner.jpg 
 
 design:
   columns: '1'
-#  background:
-#    gradient_start: '#1565c0'
-#    gradient_end: '#ffffff'
-#    gradient_angle: 180
-#    text_color_light: true
+  background:
+    gradient_start: '#1565c0'
+    gradient_end: '#15bbc0'
+    gradient_angle: 90
+    text_color_light: true
 
 cta:
   url: '/research'
