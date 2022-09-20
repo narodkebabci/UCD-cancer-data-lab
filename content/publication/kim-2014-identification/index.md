@@ -5,7 +5,7 @@ date: 2014-02-21
 
 publishDate: 2022-09-06T20:00:28.461956Z
 
-authors: ["Hyun-Soo Kim", "Rituparna Mukhopadhyay", "Scott B Rothbart", "Andrea C Silva", "Vincent Vanoosthuyse", "Ernest Radovani", "Thomas Kislinger", "Assen Roguev", "Colm J Ryan", "Jiewei Xu", " others"]
+authors: ["Hyun-Soo Kim", "Rituparna Mukhopadhyay", "Scott B Rothbart", "Andrea C Silva", "Vincent Vanoosthuyse", "Ernest Radovani", "Thomas Kislinger", "Assen Roguev", "Colm J. Ryan", "Jiewei Xu", " others"]
 
 publication_types: ["2"]
 
