@@ -2,7 +2,7 @@
 title: "Systems biology: old news or new stimulus for biochemistry"
 date: 2018-08-13
 publishDate: 2022-09-06T20:00:28.459024Z
-authors: ["Walter Kolch", "Dirk Fey", "Colm J Ryan"]
+authors: ["Walter Kolch", "Dirk Fey", "Colm J. Ryan"]
 publication_types: ["2"]
 doi: 'https://doi.org/10.1042/EBC20180002'
 
