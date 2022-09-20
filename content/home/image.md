@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -17,12 +17,10 @@ subtitle:
 
 design:
   background:
-    image: background.jpg
-    image_darken: 0.3
+    image: banner.jpg
     image_size: cover
     image_position: center
-    image_parallax: true
-    text_color_light: true
+#    image_parallax: true
 
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
