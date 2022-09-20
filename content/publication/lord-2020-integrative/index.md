@@ -5,7 +5,7 @@ date: 2020-05-28
 
 publishDate: 2022-09-06T20:00:28.439637Z
 
-authors: ["Christopher J Lord", "Niall Quinn", "Colm J Ryan"]
+authors: ["Christopher J Lord", "Niall Quinn", "Colm J. Ryan"]
 
 publication_types: ["2"]
 
