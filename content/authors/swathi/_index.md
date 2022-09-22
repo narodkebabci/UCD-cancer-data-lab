@@ -2,6 +2,8 @@
 # Display name
 title: Swathi Ramachandra Upadhya
 
+slug: swathiramachandraupadhya
+
 # Is this the primary user of the site?
 superuser: true
 
