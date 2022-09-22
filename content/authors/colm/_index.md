@@ -2,7 +2,7 @@
 # Display name
 title: Colm J. Ryan
 
-slug: colmryan
+slug: colmjryan
 
 # Is this the primary user of the site?
 superuser: true
