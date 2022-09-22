@@ -2,6 +2,8 @@
 title: The contribution of paralogs to the genetic robustness of tumours
 subtitle: 
 
+weight: 2
+
 summary: 
 
 # Link this post with a project
