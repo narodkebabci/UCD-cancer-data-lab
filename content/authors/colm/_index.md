@@ -1,8 +1,8 @@
 ---
 # Display name
 title: Colm J. Ryan
-authors:
-  - colmryan
+
+slug: colmryan
 
 # Is this the primary user of the site?
 superuser: true
