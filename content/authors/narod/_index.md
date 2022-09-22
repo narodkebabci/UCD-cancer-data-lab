@@ -2,6 +2,8 @@
 # Display name
 title: Narod Kebabci
 
+slug: narodkebabci
+
 # Is this the primary user of the site?
 superuser: true
 
