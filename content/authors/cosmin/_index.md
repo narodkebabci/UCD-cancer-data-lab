@@ -2,6 +2,8 @@
 # Display name
 title: Cosmin Tudose
 
+slug: cosmintudose
+
 # Is this the primary user of the site?
 superuser: true
 
