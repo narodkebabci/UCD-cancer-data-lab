@@ -2,6 +2,8 @@
 # Display name
 title: Anjan Venkatesh
 
+slug: anjanvenkatesh
+
 # Is this the primary user of the site?
 superuser: true
 
