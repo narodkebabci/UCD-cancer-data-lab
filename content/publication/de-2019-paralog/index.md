@@ -15,7 +15,9 @@ abstract: "What makes a gene essential for cellular survival? In model organisms
 
 featured: false
 
-doi: 'https://doi.org/10.1371/journal.pgen.1008466'
+links:
+ - name: Paper
+   url: https://doi.org/10.1371/journal.pgen.1008466
 
 tags:
   - cancer

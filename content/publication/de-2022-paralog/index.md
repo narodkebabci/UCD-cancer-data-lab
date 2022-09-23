@@ -2,7 +2,6 @@
 title: "Paralog dispensability shapes homozygous deletion patterns in tumor genomes"
 
 date: '2022-06-20T00:00:00Z'
-doi: 'https://doi.org/10.1101/2022.06.20.496722'
 
 publishDate: 2022-09-06T20:00:28.503411Z
 
@@ -24,6 +23,8 @@ tags:
 featured: false
 
 links:
+  - name: Paper
+    url: https://doi.org/10.1101/2022.06.20.496722
   - name: Source Code
     url: https://github.com/cancergenetics/paralog_HDs
 

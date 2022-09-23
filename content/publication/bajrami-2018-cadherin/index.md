@@ -8,11 +8,13 @@ abstract: "The cell adhesion glycoprotein E-cadherin (CDH1) is commonly inactiva
 
 featured: false
 
+links:
+  - name: Paper
+    url: https://doi.org/10.1158/2159-8290.CD-17-0603
+
 tags:
   - cancer
   - synthetic lethality
-
-doi: 'https://doi.org/10.1158/2159-8290.CD-17-0603'
 
 publication: "*Cancer discovery*"
 
