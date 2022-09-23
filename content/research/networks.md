@@ -1,23 +1,16 @@
 ---
-widget: hero 
-headless: true 
+widget: blank
+headless: true
 active: true
-weight: 30
 
 title: 'Network rewiring in response to genetic perturbations in cancer'
-
-hero_media: 
-
+subtitle:
+weight: 30  
 design:
   columns: '1'
-  background:
-    gradient_start: ''
-    gradient_end: ''
-    gradient_angle: 
-    text_color_light: 
-  
-# advanced:
-#   css_class: fullscreen
+
+advanced:
+  css_class: d-flex fullscreen align-items-center
   
 ---
 
