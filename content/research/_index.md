@@ -1,15 +1,15 @@
 ---
-title: Research Overview
-type: page
-cms_exclude: true
+# title: Research Overview
+# type: page
+# cms_exclude: true
 
-# View.
-view: compact
-flip_alt_rows: false
+# # View.
+# view: compact
+# flip_alt_rows: false
 
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+# # Optional header image (relative to `assets/media/` folder).
+# banner:
+#   caption: ''
+#   image: ''
  
 ---
