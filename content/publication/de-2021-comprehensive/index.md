@@ -10,8 +10,6 @@ authors:
 
 date: 2021-12-15
 
-doi: 'https://doi.org/10.1016/j.cels.2021.08.006'
-
 # Schedule page publish date (NOT publication's date)
 publishDate: 2022-09-06T20:00:28.501308Z
 
@@ -31,6 +29,8 @@ tags:
   - CRISPR screens
 
 links:
+  - name: Paper
+    url: https://doi.org/10.1016/j.cels.2021.08.006
   - name: Predictions and Supplementary Data
     url: http://www.cancergd.org/static/paralogs/SHAP_charts.html
   - name: Source Code
