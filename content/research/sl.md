@@ -13,7 +13,7 @@ design:
 
 advanced:
   css_style:
-  css_class:'padding-bottom:15px'
+  css_class:'padding-bottom-15px'
 
 ---
 
