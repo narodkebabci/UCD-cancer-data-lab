@@ -6,7 +6,6 @@ active: true
 title: | 
   The contribution of paralogs 
   to the genetic robustness of tumours
-subtitle:
 weight: 20  
 design:
   columns: '1'
