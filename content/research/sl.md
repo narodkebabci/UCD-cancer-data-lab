@@ -9,10 +9,11 @@ weight: 10
 design:
   columns: '1'
   spacing:
-    padding: ["15px", "15px", "15px", "15px"]
+    padding: ["15px", "15px", "0px", "15px"]
 
 advanced:
   css_style:''
+  css_class:'padding-bottom:15px'
 
 ---
 
