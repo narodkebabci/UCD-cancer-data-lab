@@ -8,6 +8,11 @@ subtitle:
 weight: 10  
 design:
   columns: '1'
+  spacing:
+    padding: ["15px", "15px", "15px", "15px"]
+
+advanced:
+  css_style:''
 
 ---
 
