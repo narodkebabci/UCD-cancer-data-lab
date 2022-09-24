@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: blank
 headless: true
 active: true
 
