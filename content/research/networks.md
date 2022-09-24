@@ -3,9 +3,7 @@ widget: blank
 headless: true
 active: true
 
-title: |
-  Network rewiring in response to 
-  genetic perturbations in cancer
+title:
 subtitle:
 weight: 30  
 design:
@@ -14,6 +12,14 @@ design:
     padding: ["40px", "15px", "20px", "15px"]
   
 ---
+
+<div class="universal-wrapper" pt-3>
+  <h1> 
+  Network rewiring in response to
+  <br>
+  genetic perturbations in cancer
+  </h1>
+</div>
 
 <div style="padding-left:100px; padding-right:100px">
   <img align="right" width="200" src="NetworkEffects.png" />

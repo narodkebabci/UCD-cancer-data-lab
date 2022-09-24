@@ -3,9 +3,7 @@ widget: blank
 headless: true
 active: true
 
-title: | 
-  The contribution of paralogs 
-  to the genetic robustness of tumours
+title: 
 weight: 20  
 design:
   columns: '1'
@@ -13,6 +11,14 @@ design:
     padding: ["40px", "15px", "20px", "15px"]
 
 ---
+
+<div class="universal-wrapper" pt-3>
+  <h1> 
+  The contribution of paralogs 
+  <br>
+  to the genetic robustness of tumours
+  </h1>
+</div>
 
 <div style="padding-left:100px; padding-right:100px">
   <img align="right" src="Paralogs.png" />
