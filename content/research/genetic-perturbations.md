@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: hugo
 headless: true
 active: true
 
