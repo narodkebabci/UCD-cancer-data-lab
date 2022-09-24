@@ -3,13 +3,15 @@ widget: blank
 headless: true
 active: true
 
-title: 'The contribution of paralogs to the genetic robustness of tumours'
+title: | 
+  The contribution of paralogs 
+  to the genetic robustness of tumours
 subtitle:
 weight: 20  
 design:
   columns: '1'
   spacing:
-    padding: ["40px", "15px", "10px", "15px"]
+    padding: ["40px", "15px", "20px", "15px"]
 
 ---
 

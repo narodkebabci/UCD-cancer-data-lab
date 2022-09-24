@@ -3,13 +3,15 @@ widget: blank
 headless: true
 active: true
 
-title: 'Network rewiring in response to genetic perturbations in cancer'
+title: |
+  Network rewiring in response to 
+  genetic perturbations in cancer
 subtitle:
 weight: 30  
 design:
   columns: '1'
   spacing:
-    padding: ["40px", "15px", "10px", "15px"]
+    padding: ["40px", "15px", "20px", "15px"]
   
 ---
 
