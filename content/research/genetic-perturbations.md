@@ -15,9 +15,7 @@ design:
 <div class="panel panel-default">
   <div class="panel-heading">
     <h2>
-    The contribution of paralogs
-    <br>
-    to the genetic robustness of tumours
+    The contribution of paralogs to the genetic robustness of tumours
     </h2>
   </div>
   </div class="panel-body">
