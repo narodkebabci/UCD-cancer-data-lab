@@ -11,10 +11,6 @@ design:
   spacing:
     padding: ["15px", "15px", "0px", "15px"]
 
-advanced:
-  css_style:
-  css_class:'padding-bottom-15px'
-
 ---
 
 <div style="padding-left:100px; padding-right:100px">
