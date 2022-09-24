@@ -12,7 +12,7 @@ design:
     padding: ["15px", "15px", "0px", "15px"]
 
 advanced:
-  css_style:''
+  css_style:
   css_class:'padding-bottom:15px'
 
 ---
