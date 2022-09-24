@@ -19,7 +19,7 @@ design:
 
 cta:
   url: '/research'
-  label: Research in brief
+  label: Research Overview
   icon_pack: fas
   icon: terminal
   
