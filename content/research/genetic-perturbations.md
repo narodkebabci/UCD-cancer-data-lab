@@ -1,5 +1,5 @@
 ---
-widget: hugo
+widget: hero
 headless: true
 active: true
 
