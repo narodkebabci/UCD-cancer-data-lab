@@ -9,7 +9,7 @@ weight: 20
 design:
   columns: '1'
   spacing:
-    padding: ["10px", "15px", "10px", "15px"]
+    padding: ["40px", "15px", "10px", "15px"]
 
 ---
 
