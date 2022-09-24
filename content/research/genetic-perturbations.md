@@ -8,7 +8,7 @@ subtitle:
 weight: 20  
 design:
   columns: '1'
-   spacing:
+  spacing:
     padding: ["10px", "15px", "10px", "15px"]
 
 ---
