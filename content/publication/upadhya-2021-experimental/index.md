@@ -11,6 +11,8 @@ authors:
 
 publication_types: ["2"]
 
+add_badge: true
+
 publication: "*Cell Reports Methods*"
 
 abstract: "Large-scale studies of human proteomes have revealed only a moderate correlation between mRNA and protein abundances. It is unclear to what extent this moderate correlation reflects post-transcriptional regulation and to what extent it reflects measurement error. Here, by analyzing replicate profiles of tumors and cell lines, we show that there is considerable variation in the reproducibility of measurements of transcripts and proteins from individual genes. Proteins with more reproducible measurements tend to have a higher mRNA-protein correlation, suggesting that measurement reproducibility accounts for a substantial fraction of the unexplained variation between mRNA and protein abundances. The reproducibility of individual proteins is somewhat consistent across studies, and we exploit this to develop an aggregate reproducibility score that explains a substantial amount of the variation in mRNA-protein correlations across multiple studies. Finally, we show that pathways previously reported to have a higher-than-average mRNA-protein correlation may simply contain members that can be more reproducibly quantified."
@@ -22,7 +24,7 @@ tags:
   - reproducibility
   - transcriptomics
 
-featured: false
+featured: true
 
 links:
   - name: Paper
