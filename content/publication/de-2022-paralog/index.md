@@ -11,6 +11,8 @@ authors:
 
 publication_types: ["3"]
 
+doi: "10.1101/2022.06.20.496722"
+
 add_badge: true
 
 publication: "*bioRxiv*"
@@ -22,7 +24,7 @@ tags:
   - paralog
   - preprint
 
-featured: true
+featured: false
 
 links:
   - name: Paper

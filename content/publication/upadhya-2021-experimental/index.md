@@ -11,6 +11,8 @@ authors:
 
 publication_types: ["2"]
 
+doi: "10.1016/j.crmeth.2022.100288"
+
 add_badge: true
 
 publication: "*Cell Reports Methods*"
@@ -24,7 +26,7 @@ tags:
   - reproducibility
   - transcriptomics
 
-featured: true
+featured: false
 
 links:
   - name: Paper
