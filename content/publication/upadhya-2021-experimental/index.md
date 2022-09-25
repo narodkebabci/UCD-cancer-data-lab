@@ -11,7 +11,7 @@ authors:
 
 publication_types: ["2"]
 
-doi: "10.1016/j.crmeth.2022.100288"
+doi: 10.1016/j.crmeth.2022.100288
 
 add_badge: true
 

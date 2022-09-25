@@ -39,12 +39,12 @@
   </div>
   {{ end }}
 
-  {{ with .Params.add_badge}}
-  <div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true"></div>
+  {{ with $.Param "add_badge"}}
+  <div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="{{ .Params.doi }}" data-hide-no-mentions="true"></div>
   {{ end }}
 
-  {{ with .Params.add_badge}}
-  <span class="__dimensions_badge_embed__" data-doi="10.1038/nature.2014.14583" data-hide-zero-citations="true" data-legend="hover-right"></span>
+  {{ with $.Param "add_badge"}}
+  <span class="__dimensions_badge_embed__" data-doi="{{ .Params.doi }}" data-hide-zero-citations="true" data-legend="hover-right"></span>
   {{ end }}
 
   {{ end }}

@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 add_badge: true
 
-doi: "10.1016/j.cels.2021.08.006"
+doi: 10.1016/j.cels.2021.08.006
 
 publication: "*Cell Systems*"
 

@@ -11,7 +11,7 @@ authors:
 
 publication_types: ["3"]
 
-doi: "10.1101/2022.06.20.496722"
+doi: 10.1101/2022.06.20.496722
 
 add_badge: true
 
