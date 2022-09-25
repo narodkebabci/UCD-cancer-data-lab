@@ -39,11 +39,12 @@
   </div>
   {{ end }}
 
-  <div class="altmetrics">
-    {{ with $item.Params.add_badge}}
-    <div data-badge-popover="left" data-badge-type="donut" data-doi="{{ .Params.doi }}" data-condensed="true" class="altmetric-embed" data-link-target='_blank' rel="noopener noreferrer"></div>
+  {{ with .Params.add_badge}}
+    <div class="altmetric-embed" data-badge-popover="left" data-badge-type="donut" data-doi="{{ .Params.doi }}" data-condensed="true" data-link-target='_blank' rel="noopener noreferrer"></div>
+  {{ end }}
+
+  {{ with .Params.add_badge}}
     <div class="__dimensions_badge_embed__" data-doi="{{ .Params.doi }}" data-legend="hover-left" data-style="small_circle" rel="noopener noreferrer"></div>
-  </div>
   {{ end }}
 
   {{ end }}
