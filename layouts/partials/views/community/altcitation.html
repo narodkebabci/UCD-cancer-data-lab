@@ -40,11 +40,11 @@
   {{ end }}
 
   {{ with .Params.add_badge}}
-    <div class="altmetric-embed" data-badge-popover="left" data-badge-type="donut" data-doi="{{ .Params.doi }}" data-condensed="true" data-link-target='_blank' rel="noopener noreferrer"></div>
+  <div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true"></div>
   {{ end }}
 
   {{ with .Params.add_badge}}
-    <div class="__dimensions_badge_embed__" data-doi="{{ .Params.doi }}" data-legend="hover-left" data-style="small_circle" rel="noopener noreferrer"></div>
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/nature.2014.14583" data-hide-zero-citations="true" data-legend="hover-right"></span>
   {{ end }}
 
   {{ end }}
