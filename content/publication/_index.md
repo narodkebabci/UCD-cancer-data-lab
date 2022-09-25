@@ -2,7 +2,7 @@
 title: Publications
 
 # Listing view
-view: community/altcitation
+view: community/altcompact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
