@@ -13,22 +13,23 @@ content:
   autolink: true
   email: colm.ryan@ucd.ie
   address:
-    street: Conway Institute, University College Dublin
-    city: Belfield, Dublin, Ireland
-    country: Ireland
-    country_code: IE
+    street: "Conway Institute, University College Dublin"
+    city: "Belfield, Dublin"
+    country: "Ireland"
+    country_code: "IE"
   coordinates:
-    latitude: '53.31090931483425'
-    longitude: '-6.225138238836217'
+    latitude: "53.31090931483425"
+    longitude: "-6.225138238836217"
+  directions: Room G044 (Ground Floor)
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM me
-      link: 'https://twitter.com/colmr'
-    - icon: linkedin
-      icon_pack: fab
-      name: Connect
-      link: 'https://www.linkedin.com/in/colmjryan'
+    - icon: 
+      icon_pack: 
+      name: 
+      link: 
+    - icon: 
+      icon_pack: 
+      name: 
+      link: 
     
 design:
   columns: '2'
