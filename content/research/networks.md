@@ -3,13 +3,13 @@ widget: blank
 headless: true
 active: true
 
-title:
+# title:
 subtitle:
 weight: 30  
 design:
   columns: '1'
   spacing:
-    padding: ["40px", "15px", "20px", "15px"]
+    padding: ["30px", "15px", "20px", "15px"]
   
 ---
 
