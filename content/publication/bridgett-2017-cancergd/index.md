@@ -31,5 +31,8 @@ links:
 
 publication: "*Cell Systems*"
 
+add_badge: true
+doi: 10.1016/j.cels.2017.06.002
+
 ---
 
