@@ -15,8 +15,7 @@ advanced:
 
 ---
 
-# The contribution of paralogs 
-# to the genetic robustness of tumours
+## The contribution of paralogs to the genetic robustness of tumours
 
 <img src="Paralogs.png" style="margin:15px; float: inline-end;" />
 
