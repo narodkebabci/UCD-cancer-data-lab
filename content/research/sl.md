@@ -9,7 +9,7 @@ weight: 10
 design:
   columns: '1'
   spacing:
-    padding: ["15px", "15px", "15px", "15px"]
+    padding: ["15px", "30px", "15px", "30px"]
 
 advanced:
    css_class: d-flex fullscreen align-items-center
