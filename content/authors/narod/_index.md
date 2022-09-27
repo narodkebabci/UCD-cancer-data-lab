@@ -20,10 +20,8 @@ bio: ''
 
 interests:
   - Cancer
-  - CRISPR Screens
   - Synthetic Lethality
   - Machine Learning
-  - Data Visualisation
 
 education:
   courses:
