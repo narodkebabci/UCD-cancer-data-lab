@@ -34,5 +34,8 @@ links:
   - name: Source Code
     url: https://github.com/cancergenetics/limitations_of_omics_reproducibility
 
+add_badge: true
+doi: 10.1016/j.crmeth.2022.100288
+
 ---
 

@@ -23,5 +23,8 @@ featured: false
 
 publication: "*Genome Biology and Evolution*"
 
+add_badge: true
+doi: 10.1093/gbe/evt074
+
 ---
 

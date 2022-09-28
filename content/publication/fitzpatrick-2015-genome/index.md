@@ -26,5 +26,8 @@ tags:
 
 publication: "*BMC Genomics*"
 
+add_badge: true
+doi: 10.1186/s12864-015-1300-3
+
 ---
 

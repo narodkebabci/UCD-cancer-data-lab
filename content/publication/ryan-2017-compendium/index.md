@@ -25,5 +25,9 @@ links:
     url: http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD007543
 
 publication: "*Cell Systems*"
+
+add_badge: true
+doi: 10.1016/j.cels.2017.09.011
+
 ---
 

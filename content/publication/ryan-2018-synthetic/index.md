@@ -22,5 +22,8 @@ tags:
 
 publication: "*Trends in Cancer*"
 
+add_badge: true
+doi: 10.1016/j.trecan.2018.08.003
+
 ---
 

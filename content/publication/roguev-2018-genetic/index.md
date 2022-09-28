@@ -19,5 +19,9 @@ tags:
   - Yeast
 
 publication: "*Cold Spring Harbor Protocols*"
+
+add_badge: true
+doi: 10.1101/pdb.prot091983
+
 ---
 

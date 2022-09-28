@@ -18,5 +18,9 @@ tags:
   - Genome Analysis
 featured: false
 publication: "*Cold Spring Harbor Protocols*"
+
+add_badge: true
+doi: 10.1101%2Fpdb.top079905
+
 ---
 

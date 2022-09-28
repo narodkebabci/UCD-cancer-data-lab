@@ -13,5 +13,9 @@ links:
 
 featured: false
 publication: "*Molecular and Cellular Biology*"
+
+add_badge: true
+doi: 10.1128/mcb.05182-11
+
 ---
 

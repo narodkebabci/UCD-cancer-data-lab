@@ -27,5 +27,8 @@ tags:
 
 publication: "*Cancer Treatment and Research Communications*"
 
+add_badge: true
+doi: 10.1016/j.ctarc.2021.100376
+
 ---
 

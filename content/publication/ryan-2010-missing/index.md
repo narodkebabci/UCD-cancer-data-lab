@@ -13,5 +13,9 @@ links:
 
 featured: false
 publication: "*BMC Bioinformatics*"
+
+add_badge: true
+doi: 10.1186/1471-2105-11-197
+
 ---
 

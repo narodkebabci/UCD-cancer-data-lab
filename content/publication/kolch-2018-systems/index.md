@@ -19,5 +19,8 @@ tags:
 featured: false
 publication: "*Essays in Biochemistry*"
 
+add_badge: true
+doi: 10.1042/EBC20180002
+
 ---
 

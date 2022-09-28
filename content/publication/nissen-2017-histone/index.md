@@ -20,5 +20,8 @@ tags:
 featured: false
 publication: "*Genes & Development*"
 
+add_badge: true
+doi: 10.1101%2Fgad.295287.116
+
 ---
 

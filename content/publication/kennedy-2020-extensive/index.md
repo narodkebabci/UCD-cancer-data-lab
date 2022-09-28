@@ -13,5 +13,9 @@ links:
     url: https://doi.org/10.1038/s41467-019-14224-9
 
 publication: "*Nature communications*"
+
+add_badge: true
+doi: 10.1038/s41467-019-14224-9
+
 ---
 

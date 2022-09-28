@@ -11,5 +11,8 @@ links:
 featured: false
 publication: "*PLOS Genetics*"
 
+add_badge: true
+doi: 10.1371/journal.pgen.1005074
+
 ---
 

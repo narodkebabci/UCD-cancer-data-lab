@@ -11,5 +11,9 @@ links:
     url: https://doi.org/10.1016/j.ccr.2014.08.008
 featured: false
 publication: "*Cancer Cell*"
+
+add_badge: true
+doi: 10.1016/j.ccr.2014.08.008
+
 ---
 

@@ -11,5 +11,9 @@ links:
     url: https://doi.org/10.1016/j.molcel.2012.05.028
 featured: false
 publication: "*Molecular Cell*"
+
+add_badge: true
+doi: 10.1016/j.molcel.2012.05.028
+
 ---
 

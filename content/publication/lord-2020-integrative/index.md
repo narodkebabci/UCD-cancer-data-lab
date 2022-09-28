@@ -22,5 +22,9 @@ tags:
  - synthetic lethality
 
 publication: "*Elife*"
+
+add_badge: true
+doi: 10.7554/eLife.58925
+
 ---
 

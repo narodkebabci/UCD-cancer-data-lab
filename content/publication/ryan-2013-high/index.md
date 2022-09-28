@@ -13,5 +13,9 @@ links:
 
 featured: false
 publication: "*Nature Reviews Genetics*"
+
+add_badge: true
+doi: 10.1038/nrg3574
+
 ---
 

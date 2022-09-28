@@ -23,5 +23,8 @@ tags:
 
 publication: "*Scientific reports*"
 
+add_badge: true
+doi: 10.1038/s41598-018-29043-z
+
 ---
 

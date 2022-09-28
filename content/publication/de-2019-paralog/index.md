@@ -25,5 +25,8 @@ tags:
 
 publication: "*PLoS genetics*"
 
+add_badge: true
+doi: 10.1371/journal.pgen.1008466
+
 ---
 

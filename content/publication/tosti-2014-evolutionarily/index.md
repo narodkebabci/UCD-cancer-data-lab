@@ -13,5 +13,9 @@ links:
 
 featured: false
 publication: "*Genome Medicine*"
+
+add_badge: true
+doi: 10.1186/s13073-014-0068-4
+
 ---
 

@@ -11,5 +11,8 @@ links:
 featured: false
 publication: "*BMC Systems Biology*"
 
+add_badge: true
+doi: 10.1186/1752-0509-5-80
+
 ---
 

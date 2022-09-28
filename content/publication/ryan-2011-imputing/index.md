@@ -10,5 +10,9 @@ links:
     url: https://doi.org/10.1007/978-1-61779-276-2_17
 featured: false
 publication: "*Network Biology*"
+
+add_badge: true
+doi: 10.1007/978-1-61779-276-2_17
+
 ---
 

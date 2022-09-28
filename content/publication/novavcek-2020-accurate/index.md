@@ -12,5 +12,9 @@ links:
 
 featured: false
 publication: "*PLoS computational biology*"
+
+add_badge: true
+doi: 10.1371/journal.pcbi.1007578
+
 ---
 
