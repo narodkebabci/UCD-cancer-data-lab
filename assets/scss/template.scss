@@ -25,5 +25,14 @@
 
 .myborder{
   box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
-  transition:all .2s ease-out
+}
+
+.myborder-body{
+  display: block;
+  position: relative;
+  padding: 25px;
+}
+
+.img-myhover{
+  transition: all .2s ease-in-out;
 }
