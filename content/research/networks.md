@@ -16,7 +16,7 @@ advanced:
   
 ---
 
-## Network rewiring in response to genetic perturbations in cancer
+# Network rewiring in response to genetic perturbations in cancer
 
 <img class="mynetimage" src="NetworkEffects.png" />
 
