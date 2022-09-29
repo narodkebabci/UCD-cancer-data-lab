@@ -16,3 +16,14 @@
   margin-bottom: 15px;
   width: 40%;
  }
+
+.myborder {
+  display: flex;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 0.25rem;
+}
+
+.myborder{
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
+  transition:all .2s ease-out
+}
