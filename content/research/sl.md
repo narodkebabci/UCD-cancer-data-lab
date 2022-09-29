@@ -9,7 +9,7 @@ weight: 10
 design:
   columns: '1'
   spacing:
-    padding: ["30px", "30px", "30px", "30px"]
+    padding: ["30px", "30px", "40px", "30px"]
 
 advanced:
   css_class: align-items-center
