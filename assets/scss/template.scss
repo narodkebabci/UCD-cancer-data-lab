@@ -20,7 +20,7 @@
 .myborder {
   display: flex;
   border: 1px solid rgba(0,0,0,.125);
-  border-radius: 0.25rem;
+  border-radius: 0.40rem;
 }
 
 .myborder{
@@ -34,5 +34,6 @@
 }
 
 .img-myhover{
-  transition: all .2s ease-in-out;
+  transition: all 0.5s ease-out;
+  padding: 0.5rem;
 }
