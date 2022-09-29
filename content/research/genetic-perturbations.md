@@ -17,7 +17,7 @@ advanced:
 
 <div class="myborder">
   <div class="myborder-body">
-    <div class="myparalogimg">
+    <div class="paralog">
       <img src="Paralogs.png" />
     </div>
     <h2>The contribution of paralogs to the genetic robustness of tumours</h2>
