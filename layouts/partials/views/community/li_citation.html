@@ -1,7 +1,7 @@
 {{ $item := .item }}
 
 <div class="media stream-item">
-    <div class="pub-list-item view-li-citation">
+    <div class="pub-list-item">
       <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
   
       {{/* APA Style */}}
@@ -54,8 +54,8 @@
     {{/* Add Almetric and Dimension badges */}}
     <div class="ml-3">
     {{ if and $item.Params.add_badge $item.Params.doi }}
-      <div data-badge-popover="right" data-badge-type="donut" data-doi="{{ $item.Params.doi }}" data-condensed="true" class="altmetric-embed"></div>
-      <div class="__dimensions_badge_embed__" data-doi="{{ $item.Params.doi }}" data-legend="hover-right" data-style="small_circle"></div>
+      <div data-badge-popover="left" data-badge-type="donut" data-doi="{{ $item.Params.doi }}" data-condensed="true" class="altmetric-embed" data-link-target='_blank' rel="noopener noreferrer"></div>
+      <div class="__dimensions_badge_embed__" data-doi="{{ $item.Params.doi }}" data-legend="hover-right" data-style="small_circle" rel="noopener noreferrer"></div>
     {{ end }}
     </div>
   </div>  
