@@ -7,7 +7,7 @@ weight: 10
 title: ''
 
 # add lab logo
-# hero_media: 01banner.jpg 
+hero_media: icon.png
 
 design:
   columns: '1'
