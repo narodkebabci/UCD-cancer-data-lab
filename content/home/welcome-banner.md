@@ -21,6 +21,6 @@ advanced:
 ---
 
 <div>
-  <img src="icon.png" style="margin: 0 0 0 15px; float: right; width: 100%;" />
-  <p style="text-align: justify;">The UCD Cancer Data Lab, led by <a href="/authors/colm">Dr. Colm J. Ryan</a>, use large-scale data analysis to understand how genetic variation in cancer alters molecular interaction networks and to identify ways to target these alterations therapeutically.</p>
+  <img src="assets/media/icon.png" style="margin: 0 0 0 15px; float: right; width: 100%;" />
+  <p style="text-align: justify;">The UCD Cancer Data Lab, led by <a href="https://cancerdata.ucd.ie/author/colmjryan/"> Dr. Colm J. Ryan </a>, use large-scale data analysis to understand how genetic variation in cancer alters molecular interaction networks and to identify ways to target these alterations therapeutically.</p>
 </div>
