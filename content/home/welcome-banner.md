@@ -16,10 +16,10 @@ design:
 
 image:
   placement: 1
-  filename: icon.png
+  filename: assets/media/icon.png
   caption: ""
   focal_point: "Right"
-  preview_only: true
+  preview_only: false
   alt_text: 
   
 ---

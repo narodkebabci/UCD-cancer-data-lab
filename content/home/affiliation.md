@@ -14,7 +14,7 @@ design:
     padding: ["0", "0", "0", "0"]
 
 advanced:
-  css_class: d-flex fullscreen align-items-center
+  css_class: align-items-center
 
 ---
 
