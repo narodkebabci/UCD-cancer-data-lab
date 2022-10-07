@@ -21,7 +21,7 @@ organizations:
 bio: ''
 
 interests:
-  - Computational Biology
+  - Paralogs
   - Machine Learning
   - Genetic Interactions
   - Synthetic Lethality
@@ -71,4 +71,4 @@ user_groups:
  
 ---
 
-Colm is a computational biologist and uses large-scale data science methods to understand how biological systems function. A particular focus of his group is the development of approaches to understand how mutations in cancer alter molecular interaction networks and to identify ways to target these alterations therapeutically.
+Colm leads the UCD Cancer Data Lab where his group develop computational approaches to understand how mutations in cancer alter molecular interaction networks and to identify ways to target these alterations therapeutically. Colm is an Assistant Professor in the UCD School of Computer Science, a Senior Fellow in the Conway Institute of Biomolecular and Biomedical Research, and an Irish Research Council Laureate. Colm is also Deputy Head of Node for ELIXIR Ireland and an Investigator at Systems Biology Ireland. He has a degree in Computer Science from Trinity College Dublin and worked as a software developer for IBM before completing a PhD in computational biology at University College Dublin. 
