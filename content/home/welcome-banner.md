@@ -16,7 +16,7 @@ design:
 
 image:
   placement: 1
-  filename: assets/media/icon.png
+  filename: "assets/media/icon.png"
   caption: ""
   focal_point: "Right"
   preview_only: false
