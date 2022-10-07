@@ -18,8 +18,8 @@ image:
   placement: 1
   filename: icon.png
   caption: ""
-  focal_point: "Center"
-  preview_only: false
+  focal_point: "Right"
+  preview_only: true
   alt_text: 
   
 ---
