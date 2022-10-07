@@ -8,11 +8,11 @@ title: ''
 
 design:
   columns: '1'
-  background:
-    gradient_start: '#1565c0'
-    gradient_end: '#15bbc0'
-    gradient_angle: 90
-    text_color_light: true
+#  background:
+#    gradient_start: '#1565c0'
+#    gradient_end: '#15bbc0'
+#    gradient_angle: 90
+#    text_color_light: true
   
 ---
 

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 headless: true
-weight: 60
+weight: 20
 # active: true
 
 title: Recent News

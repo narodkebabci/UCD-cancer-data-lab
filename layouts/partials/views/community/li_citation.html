@@ -51,11 +51,10 @@
       {{ end }}
     </div>
   
-    {{/* Add Almetric and Dimension badges */}}
+    {{/* Add Almetric badge */}}
     <div class="ml-3">
     {{ if and $item.Params.add_badge $item.Params.doi }}
       <div data-badge-popover="left" data-badge-type="donut" data-doi="{{ $item.Params.doi }}" data-condensed="true" class="altmetric-embed" data-link-target='_blank' rel="noopener noreferrer"></div>
-      <div class="__dimensions_badge_embed__" data-doi="{{ $item.Params.doi }}" data-legend="hover-left" data-style="small_circle" rel="noopener noreferrer"></div>
     {{ end }}
     </div>
   </div>  
