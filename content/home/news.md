@@ -25,8 +25,7 @@ design:
   columns: '2'
   view: masonry
   flip_alt_rows: false
-  background:
-    color: '#ffffff'
+  background: {}
   spacing: {padding: ["10px", "0", "10px", "0"]}
 advanced:
   css_class: fullscreen
