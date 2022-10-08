@@ -26,7 +26,7 @@ design:
   view: masonry
   flip_alt_rows: false
   background: {}
-  spacing: {padding: ["10px", "0", "10px", "0"]}
+  spacing: {padding: ["0", "0", "0", "0"]}
 advanced:
   css_class: fullscreen
   css_class: d-flex fullscreen align-items-center
