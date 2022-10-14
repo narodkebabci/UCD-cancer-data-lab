@@ -1,10 +1,12 @@
 ---
-widget: blank 
+widget: hero 
 headless: true 
 active: true
 
 title: ''
 weight: 10
+
+hero_media: icon.png
 
 design:
   columns: '1'
@@ -15,13 +17,15 @@ design:
 #    gradient_angle: 90
 #    text_color_light: true
 
+cta:
+  url: '/research'
+  label: Research Overview
+  icon_pack: fas
+  icon: terminal
+
 advanced:
   css_class: align-items-center
   
 ---
 
-<div>
-  <img id="logo" src="coders.jpg" style="margin: 0 0 0 15px; float: right;" />
-  <p style="text-align: justify;">The UCD Cancer Data Lab, led by <a href="https://cancerdata.ucd.ie/author/colmjryan/"> Dr. Colm J. Ryan</a>, use large-scale data analysis to understand how genetic variation in cancer alters molecular interaction networks and to identify ways to target these alterations therapeutically.</p>
-</div>
-
+The UCD Cancer Data Lab, led by [Dr. Colm J. Ryan]({{< relref "/authors/colm" >}}), use large-scale data analysis to understand how genetic variation in cancer alters molecular interaction networks and to identify ways to target these alterations therapeutically.
