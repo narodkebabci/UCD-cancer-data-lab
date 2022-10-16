@@ -10,8 +10,8 @@ hero_media: icon.png
 
 design:
   columns: '1'
-  background:
-    color: '#f7f7f7'
+#  background:
+#    color: '#f7f7f7'
 #    gradient_start: '#1565c0'
 #    gradient_end: '#15bbc0'
 #    gradient_angle: 90
