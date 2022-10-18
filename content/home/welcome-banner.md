@@ -25,6 +25,7 @@ cta:
 
 advanced:
   css_class: align-items-center
+  css_class: 
   
 ---
 
