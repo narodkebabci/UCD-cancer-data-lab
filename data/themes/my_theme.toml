@@ -1,16 +1,13 @@
-# Theme metadata
-name = "my_theme"
-
 [light]
   # Primary
   primary = "#34495E"
 
   # Menu
-  menu_primary = "#34495E"
-  menu_text = "#BECEDF"
-  menu_text_active = "#6C98C4"
-  menu_title = "#BECEDF"
+  menu_primary = "#fff"
+  menu_text = "#34495e"
+  menu_text_active = "#34495E"
+  menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "rgb(190, 206, 223)"
-  home_section_even = "rgb(247, 247, 247)"
+  home_section_odd = "rgb(247, 247, 247)"
+  home_section_even = "rgb(255, 255, 255)"
