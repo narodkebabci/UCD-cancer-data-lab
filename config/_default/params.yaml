@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: Mr Robot
+  theme_day: my_theme
   font: minimal
   font_size: M
 
