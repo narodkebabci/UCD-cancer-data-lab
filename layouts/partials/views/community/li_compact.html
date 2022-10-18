@@ -26,7 +26,7 @@
 
     <div class="stream-meta article-metadata">
 
-      {{ if .Param $taxonomy }}
+      {{ if .item $taxonomy }}
         {{ range $index, $value := (.GetTerms $taxonomy) }}
           {{- /* Highlight the author's name? */ -}}
           {{- $highlight_name := .Page.Params.highlight_name | default false -}}
