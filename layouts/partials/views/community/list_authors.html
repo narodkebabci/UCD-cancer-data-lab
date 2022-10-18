@@ -5,21 +5,15 @@
   {{ range $index, $value := (.GetTerms $taxonomy) }}
     {{- /* Highlight the author's name? */ -}}
     {{- $highlight_name := .Page.Params.highlight_name | default false -}}
-    {{ $author_page := .author_page}}
-    {{- $has_profile := not (eq nil $author_page.Params.superuser) -}}
 
     {{- if gt $index 0 }}, {{ end -}}
     <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
       {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
-      {{- if $has_profile -}}
-        {{ $profile_url := $author_page.RelPermalink }}
-        {{ end }}
-        {{if $author_page.Params.email }}
-          {{if $profile_url}}<a href="{{profile_url}}">{{end}} {{.LinkTitle}} </a>
-        {{- else -}}
-          {{ .LinkTitle }}
-        {{- end -}}
-      {{ end }}
+      {{- if .RelPermalink -}}
+        {{ .LinkTitle }}
+      {{- else -}}
+        {{ .LinkTitle }}
+      {{- end -}}
     </span>
     {{- if isset $.Params "author_notes" -}}
       {{- with (index $.Params.author_notes $index) -}}
