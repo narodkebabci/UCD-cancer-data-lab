@@ -12,5 +12,5 @@ name = "my_theme"
   menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "#E6E6E6"
-  home_section_even = "#CDCDCD"
+  home_section_odd = "rgb(247, 247, 247)"
+  home_section_even = "rgb(255, 255, 255)"
