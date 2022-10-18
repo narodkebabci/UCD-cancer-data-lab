@@ -6,8 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: Earth
   font: minimal
   font_size: M
 
@@ -70,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/cancergenetics/UCD_cancer_data_lab'
     content_dir: content
     branch: main
   avatar:
