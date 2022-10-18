@@ -1,12 +1,15 @@
+# Theme metadata
+name = "my_theme"
+
 [light]
   # Primary
-  primary = "#34495E"
+  primary = "#1667C4"
 
   # Menu
   menu_primary = "#fff"
   menu_text = "#34495e"
-  menu_text_active = "#34495E"
-  menu_title = "#2b2b2b"
+  menu_text_active = "#1667C4"
+  menu_title = "#34495e"
 
   # Home sections
   home_section_odd = "rgb(247, 247, 247)"
