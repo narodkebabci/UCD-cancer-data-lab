@@ -24,10 +24,9 @@
     </div>
 
     <div class="stream-meta article-metadata">
-
-      {{ if and $show_authors_only $item.Params.authors }}
-      
-      {{ end }}
+      <div>
+        {{ partial "page_metadata_authors" $item }}
+      </div>
     </div>
 
     {{ if $has_attachments }}
@@ -38,7 +37,7 @@
 
   </div>
   <div class="ml-3">
-    {{/* Add Almetric badges instead of featured image? */}}
+    {{/* Add Altmetric badges instead of featured image? */}}
     {{ if and $item.Params.add_badge $item.Params.doi }}
       <div data-badge-popover="left" data-badge-type="donut" data-doi="{{ $item.Params.doi }}" data-condensed="true" class="altmetric-embed" data-link-target='_blank' rel="noopener noreferrer"></div>
     {{ else }}
