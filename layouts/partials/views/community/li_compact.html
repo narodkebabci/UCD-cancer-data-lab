@@ -27,10 +27,10 @@
 
       {{ if and $show_authors_only $item.Params.authors }}
       <div>
-        {{ partial "page_author" $item }}
+        {{ partial "list_authors" $item }}
       </div>
       {{ else if not $show_authors_only }}
-        {{ partial "page_metadata_authors" (dict "page" $item "is_list" 1) }}
+        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
       {{ end }}
     </div>
 
