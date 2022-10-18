@@ -1,7 +1,6 @@
 {{ $item := .item }}
 
 {{/* Dynamic view adjusts to content type. */}}
-{{- $taxonomy := "authors" }}
 {{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
 {{ $link := $item.RelPermalink }}
 {{ $target := "" }}
@@ -26,15 +25,13 @@
 
     <div class="stream-meta article-metadata">
 
-      {{ if .item $taxonomy }}
-        {{ range $index, $value := (.GetTerms $taxonomy) }}
-          {{- /* Highlight the author's name? */ -}}
-          {{- $highlight_name := .Page.Params.highlight_name | default false -}}
-
-          {{- if gt $index 0 }}, {{ end -}}
-          <span {{ if $highlight_name }}class="author-highlighted"{{end}}></span>
-        {{- end -}}
-      {{- end -}}
+      {{ if and $show_authors_only $item.Params.authors }}
+      <div>
+        {{ partial "page_author" $item }}
+      </div>
+      {{ else if not $show_authors_only }}
+        {{ partial "page_metadata_authors" (dict "page" $item "is_list" 1) }}
+      {{ end }}
     </div>
 
     {{ if $has_attachments }}
