@@ -6,11 +6,11 @@ name = "my_theme"
   primary = "#1565c0"
 
   # Menu
-  menu_primary = "#fff"
+  menu_primary = "#BECEDF"
   menu_text = "#34495e"
   menu_text_active = "#2962ff"
   menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "rgb(247, 247, 247)"
+  home_section_odd = "rgb(190, 206, 223)"
   home_section_even = "rgb(255, 255, 255)"
