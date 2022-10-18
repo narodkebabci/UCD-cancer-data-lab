@@ -1,6 +1,7 @@
 {{ $item := .item }}
 
 {{/* Dynamic view adjusts to content type. */}}
+{{- $taxonomy := "authors" }}
 {{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
 {{ $link := $item.RelPermalink }}
 {{ $target := "" }}
@@ -24,11 +25,16 @@
     </div>
 
     <div class="stream-meta article-metadata">
-      {{if $item.Params.authors}}
-      <div>
-        {{ $item.Params.authors }}
-      </div>
-      {{ end }}
+
+      {{ if .Param $taxonomy }}
+        {{ range $index, $value := (.GetTerms $taxonomy) }}
+          {{- /* Highlight the author's name? */ -}}
+          {{- $highlight_name := .Page.Params.highlight_name | default false -}}
+
+          {{- if gt $index 0 }}, {{ end -}}
+          <span {{ if $highlight_name }}class="author-highlighted"{{end}}></span>
+        {{- end -}}
+      {{- end -}}
     </div>
 
     {{ if $has_attachments }}
@@ -39,7 +45,7 @@
 
   </div>
   <div class="ml-3">
-    {{/* Add Altmetric badges instead of featured image? */}}
+    {{/* Add Almetric badges instead of featured image? */}}
     {{ if and $item.Params.add_badge $item.Params.doi }}
       <div data-badge-popover="left" data-badge-type="donut" data-doi="{{ $item.Params.doi }}" data-condensed="true" class="altmetric-embed" data-link-target='_blank' rel="noopener noreferrer"></div>
     {{ else }}
