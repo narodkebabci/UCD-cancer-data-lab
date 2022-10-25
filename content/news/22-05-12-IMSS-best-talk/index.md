@@ -7,7 +7,7 @@ authors:
   - 
 ---
 
-Congratulations to Swathi Ramachandra Upadhya for winning the prize for best student talk at the [Irish Mass Spectrometry Society Conference 2022](https://www.imss.ie).
+Congratulations to [Swathi Ramachandra Upadhya]({{< relref "/authors/swathi" >}}) for winning the prize for best student talk at the [Irish Mass Spectrometry Society Conference 2022](https://www.imss.ie).
 
 <!--more-->
 
