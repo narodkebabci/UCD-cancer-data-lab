@@ -6,7 +6,7 @@ active: true
 title: ''
 weight: 10
 
-hero_media: icon.png
+hero_media: icon_dark.png
 
 design:
   columns: '1'
