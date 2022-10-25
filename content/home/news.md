@@ -9,27 +9,19 @@ title: Recent News
 subtitle: ''
 
 content:
-  count: 3
-  offset: 0
-  order: desc
   filters:
     folders:
       - news
-    tag: ''
-    author: ''
-    category: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
+    kinds:
+      - page
+
+sort_order: ""
+
 design:
-  columns: '2'
-  view: masonry
+  columns: "2"
+  view: "masonry"
   flip_alt_rows: false
   background: {}
-  spacing: {padding: ["0", "0", "0", "0"]}
-advanced:
-  css_class: fullscreen
-  css_class: d-flex fullscreen align-items-center
-  
+  spacing: {padding: ["0", "0", "0", "0"]}  
 ---
 
