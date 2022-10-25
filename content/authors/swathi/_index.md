@@ -4,6 +4,8 @@ title: Swathi Ramachandra Upadhya
 
 slug: swathiramachandraupadhya
 
+weight: 2
+
 # Is this the primary user of the site?
 superuser: true
 
