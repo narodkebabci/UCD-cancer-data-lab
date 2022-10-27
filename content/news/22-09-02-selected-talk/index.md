@@ -1,5 +1,5 @@
 ---
-title: Thomas presents as Spetses Summer School
+title: Thomas presents at Spetses Summer School
 date: 2022-09-02
 image:
   focal_point: 'top'
