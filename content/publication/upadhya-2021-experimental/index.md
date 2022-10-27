@@ -32,6 +32,8 @@ links:
   - name: Source Code
     url: https://github.com/cancergenetics/limitations_of_omics_reproducibility
 
+url_video: 'https://jrnlclub.org/research-films/mrna-protein-reproducibility'
+
 add_badge: true
 doi: 10.1016/j.crmeth.2022.100288
 
