@@ -17,7 +17,7 @@ The UCD Cancer Data lab are currently looking to recruit computational biology p
 
 The ideal candidate for these roles will have good programming and analytics skills and prior experience in the use of data-integration approaches to understand biology. Prior experience of cancer biology or genetic interactions is a plus, but certainly not a prerequisite for the roles. 
 
-A formal job advertisement will follow on the [UCD vacancies site](https://www.ucd.ie/workatucd/jobs/). If you are interest in applying, please send a CV and brief letter of motivation to colm.ryan@ucd.ie.
+A formal job advertisement will follow on the [UCD vacancies site](https://www.ucd.ie/workatucd/jobs/). If you are interested in applying, please send a CV and brief letter of motivation to colm.ryan@ucd.ie.
 
 ### Selected relevant publications
 - [Paralog dispensability shapes homozygous deletion patterns in tumor genomes](https://cancerdata.ucd.ie/publication/de-2022-paralog/). De Kegel and Ryan, bioRxiv 2022
@@ -39,7 +39,7 @@ For postdoctoral candidates, it's worth investigating following schemes:
 
 For PhD students:
 - Irish Research Council typically have an [annual funding call](https://research.ie/funding-category/postgraduate/)
-- Additionaly, UCD School of Computer Science have [regular calls for PhD Scholarships](https://www.ucd.ie/cs/phdvacancies/ucdschoolofcomputersciencephdscholarships2022round2/). The UCD School of Computer Science PhD fellowships are only suitable for those with strong computational / data science skills, while other fellowships are open to those from different academic backgrounds (e.g. those with a primary degree in biology). 
+- Additionally, UCD School of Computer Science have [regular calls for PhD Scholarships](https://www.ucd.ie/cs/phdvacancies/ucdschoolofcomputersciencephdscholarships2022round2/). The UCD School of Computer Science PhD fellowships are only suitable for those with strong computational / data science skills, while other fellowships are open to those from different academic backgrounds (e.g. those with a primary degree in biology). 
  
 
 
