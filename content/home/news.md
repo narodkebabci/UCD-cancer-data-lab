@@ -1,6 +1,7 @@
 ---
 widget: portfolio
 headless: true
+active: false
 
 title: 'Recent News'
 #subtitle: ''
@@ -17,7 +18,7 @@ content:
 sort_order: ""
 
 design:
-  columns: ''
+  columns: '2'
   view: masonry
   spacing: {padding: ["25px", "0", "25px", "0"]}
 
