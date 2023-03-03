@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: portfolio
 headless: true
 
 title: 'Recent News'
@@ -11,13 +11,17 @@ content:
   filters:
     folders:
       - news
-  count: 4
+    kinds:
+      - page
 
 sort_order: ""
 
 design:
-  columns: '1'
-  view: community/li_masonry
+  columns: 2'
+  view: masonry
   spacing: {padding: ["25px", "0", "25px", "0"]}
+
+advanced:
+  css_class: d-flex fullscreen align-items-center
   
 ---

@@ -20,8 +20,7 @@
 
 {{ $resource := partial "functions/get_featured_image.html" $item }}
 
-<div class="row">
-  <div class="col-md-3 col-6">
+<div class="col-md-3 col-6">
     <div class="card">
         {{ with $resource }}
         {{ $image := .Resize "550x webp" }}
@@ -46,5 +45,4 @@
           {{ end }}
         </div>
       </div>
-  </div>
 </div>
