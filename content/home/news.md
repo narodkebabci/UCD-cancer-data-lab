@@ -1,7 +1,6 @@
 ---
 widget: portfolio
 headless: true
-active: false
 
 title: 'Recent News'
 #subtitle: ''
