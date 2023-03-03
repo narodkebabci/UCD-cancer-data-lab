@@ -16,11 +16,10 @@ content:
 sort_order: ""
 
 design:
-  columns: '2'
+  columns: '1'
   view: Masonry
-  flip_alt_rows: false
   background: {}
-  spacing: {padding: ["25px", "0", "25px", "0"]}
+#  spacing: {padding: ["25px", "0", "25px", "0"]}
   
 ---
 
