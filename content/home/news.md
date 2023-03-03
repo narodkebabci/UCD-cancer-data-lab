@@ -16,7 +16,7 @@ content:
 sort_order: ""
 
 design:
-  columns: '2'
+  columns: '1'
   view: community/li_masonry
   spacing: {padding: ["25px", "0", "25px", "0"]}
   
