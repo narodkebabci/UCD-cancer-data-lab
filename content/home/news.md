@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: pages
 headless: true
 weight: 20
 active: true
@@ -9,12 +9,10 @@ title: Recent News
 subtitle: ''
 
 content:
-  count: 3
   filters:
     folders:
       - news
-    kinds:
-      - page
+  count: 3
 
 sort_order: ""
 
@@ -24,6 +22,7 @@ design:
   flip_alt_rows: false
   background: {}
   spacing: {padding: ["25px", "0", "25px", "0"]}
+
 advanced:
    css_class: d-flex fullscreen align-items-center
   
