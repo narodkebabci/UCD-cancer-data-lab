@@ -17,11 +17,7 @@ sort_order: ""
 
 design:
   columns: '2'
-  view: Masonry
+  view: community/li_masonry
   spacing: {padding: ["25px", "0", "25px", "0"]}
-
-advanced:
-   css_class: col-md-3
   
 ---
-
