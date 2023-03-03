@@ -9,6 +9,7 @@ title: Recent News
 subtitle: ''
 
 content:
+  count: 6
   filters:
     folders:
       - news
@@ -22,7 +23,7 @@ design:
   view: "masonry"
   flip_alt_rows: false
   background: {}
-  spacing: {padding: ["12", "0", "12", "0"]}
+  spacing: {padding: ["25px", "0", "25px", "0"]}
 advanced:
    css_class: d-flex fullscreen align-items-center
   

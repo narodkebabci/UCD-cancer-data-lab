@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: UCD Cancer Data Lab # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://cancerdata.ucd.ie/' # Website URL
 
 ############################
 ## LANGUAGE
