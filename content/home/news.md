@@ -17,7 +17,7 @@ content:
 sort_order: ""
 
 design:
-  columns: 2'
+  columns: ''
   view: masonry
   spacing: {padding: ["25px", "0", "25px", "0"]}
 
