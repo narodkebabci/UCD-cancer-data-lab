@@ -16,10 +16,12 @@ content:
 sort_order: ""
 
 design:
-  columns: '1'
+  columns: '2'
   view: Masonry
-  background: {}
-#  spacing: {padding: ["25px", "0", "25px", "0"]}
+  spacing: {padding: ["25px", "0", "25px", "0"]}
+
+advanced:
+   css_class: col-md-3
   
 ---
 
