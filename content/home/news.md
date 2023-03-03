@@ -3,7 +3,7 @@
 widget: portfolio
 headless: true
 weight: 20
-# active: true
+active: true
 
 title: Recent News
 subtitle: ''
