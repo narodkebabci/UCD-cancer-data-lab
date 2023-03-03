@@ -11,7 +11,7 @@ content:
   filters:
     folders:
       - news
-  count: 3
+  count: 6
 
 sort_order: ""
 
@@ -21,9 +21,6 @@ design:
   flip_alt_rows: false
   background: {}
   spacing: {padding: ["25px", "0", "25px", "0"]}
-
-# advanced:
-#   css_class: d-flex fullscreen align-items-center
   
 ---
 
