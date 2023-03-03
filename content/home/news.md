@@ -2,7 +2,7 @@
 widget: pages
 headless: true
 
-#title: ''
+title: 'Recent News'
 #subtitle: ''
 
 weight: 20
@@ -16,14 +16,8 @@ content:
 sort_order: ""
 
 design:
-#  columns: '1'
+  columns: '1'
   view: community/li_masonry
   spacing: {padding: ["25px", "0", "25px", "0"]}
   
 ---
-
-<div class="row">
-  <div class="col-12 section-heading">
-    <h1>Recent News</h1>
-  </div>
-</div>
