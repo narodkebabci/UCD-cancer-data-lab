@@ -9,7 +9,7 @@ title: Recent News
 subtitle: ''
 
 content:
-  count: 6
+  count: 3
   filters:
     folders:
       - news
