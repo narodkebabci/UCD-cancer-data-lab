@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 
+title: 
+date: 2023-01-01
 type: landing
 
 sections:
@@ -11,10 +11,10 @@ sections:
       image:
         filename: icon_dark.png
       cta:
-        label: 'Research Overview'
+        label: Research Overview
         url: '/research'
-        icon_pack: fas
         icon: terminal
+        icon_pack: fas
       text: |-
         The UCD Cancer Data Lab, led by [Dr. Colm J. Ryan]({{< relref "/authors/colm" >}}), use large-scale data analysis to understand how genetic variation in cancer alters molecular interaction networks and to identify ways to target these alterations therapeutically.
         <br>
@@ -46,7 +46,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: community/li_masonry
+      view: masonry
       columns: '2'
       #spacing: {padding: ["25px", "0", "25px", "0"]}
   - block: markdown
