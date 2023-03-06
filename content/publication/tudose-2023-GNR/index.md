@@ -1,9 +1,9 @@
 ---
 title: "Gene essentiality in cancer is better predicted by mRNA abundance than by gene regulatory network-inferred activity"
 
-date: '2023-03-02T00:00:00Z'
+date: '2023-03-06T00:00:00Z'
 
-publishDate: 2023-03-02T00:00:00Z
+publishDate: 2023-03-06T00:00:00Z
 
 authors: 
   - cosmin
@@ -30,7 +30,7 @@ featured: false
 
 links:
   - name: Paper
-    url: https://www.biorxiv.org/content/10.1101/2023.03.02.530664v1
+    url: https://www.biorxiv.org/content/10.1101/2023.03.02.530664v2
   - name: Source Code
     url: https://github.com/cancergenetics/GRN_activity_corr_essentiality
 
