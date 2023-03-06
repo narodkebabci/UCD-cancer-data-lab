@@ -14,7 +14,7 @@ appearance:
 
 marketing:
   seo:
-    site_type: ResearchOrganization
+    site_type: Organization
     local_business_type: ''
     org_name: ''
     description: 'Homepage for the UCD Cancer Data Lab.'
@@ -82,6 +82,11 @@ features:
       show_count: true
     commento:
       url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
     provider: wowchemy
     algolia:
