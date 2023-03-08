@@ -4,6 +4,8 @@ title: Anjan Venkatesh
 
 slug: anjanvenkatesh
 
+weight: 2
+
 # Is this the primary user of the site?
 superuser: true
 

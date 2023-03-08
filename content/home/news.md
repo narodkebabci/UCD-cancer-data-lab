@@ -1,15 +1,13 @@
 ---
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 headless: true
-weight: 20
-# active: true
 
-title: Recent News
-subtitle: ''
+title: 'Recent News'
+#subtitle: ''
+
+weight: 20
 
 content:
-  count: 6
   filters:
     folders:
       - news
@@ -19,13 +17,11 @@ content:
 sort_order: ""
 
 design:
-  columns: "2"
-  view: "masonry"
-  flip_alt_rows: false
-  background: {}
+  columns: '2'
+  view: masonry
   spacing: {padding: ["25px", "0", "25px", "0"]}
+
 advanced:
-   css_class: d-flex fullscreen align-items-center
+  css_class: d-flex fullscreen align-items-center
   
 ---
-

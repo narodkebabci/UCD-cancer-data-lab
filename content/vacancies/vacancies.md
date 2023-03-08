@@ -25,9 +25,9 @@ A formal job advertisement will follow on the [UCD vacancies site](https://www.u
 - [Comprehensive prediction of robust synthetic lethality between paralog pairs in cancer cell lines](https://cancerdata.ucd.ie/publication/de-2021-comprehensive/). De Kegel et al, Cell Systems 2021
 - [Integrative analysis of large-scale loss-of-function screens identifies robust cancer-associated genetic interactions](https://cancerdata.ucd.ie/publication/lord-2020-integrative/). Lord et al, eLife 2020
 - [Synthetic lethality and cancer – penetrance as the major barrier](https://cancerdata.ucd.ie/publication/ryan-2018-synthetic/). Ryan et al Trends in Cancer. 2018
--  [CancerGD: a resource for identifying and interpreting genetic dependencies in cancer](https://cancerdata.ucd.ie/publication/bridgett-2017-cancergd/). Bridgett et al, Cell Systems 2017
+- [CancerGD: a resource for identifying and interpreting genetic dependencies in cancer](https://cancerdata.ucd.ie/publication/bridgett-2017-cancergd/). Bridgett et al, Cell Systems 2017
 
-<br/><br/><br/><br/>
+<br/>
 
 ## Fellowship Support
 
