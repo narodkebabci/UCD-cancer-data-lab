@@ -13,7 +13,7 @@ advanced:
   
 ---
 
-The UCD Cancer Data lab are currently looking to recruit computational biology postdocs. We are a supportive and collaborative interdisciplinary research group based in the [Conway Institute](https://www.ucd.ie/conway/) in University College Dublin. We are broadly interested in understanding how mutations in cancer alter molecular interaction networks and in identifying ways to target these alterations therapeutically. We have a particular interest in identifying genetic interactions in cancer and understanding how they influence tumour genome evolution. You can read more about areas of specific research interest [here](https://cancerdata.ucd.ie/research/). 
+The UCD Cancer Data lab are currently looking to recruit computational biology postdocs. We are a supportive and collaborative interdisciplinary research group based in the [Conway Institute](https://www.ucd.ie/conway/) in University College Dublin. We are broadly interested in understanding how mutations in cancer alter molecular interaction networks and in identifying ways to target these alterations therapeutically. We have a particular interest in identifying and and understanding synthetic lethal interactions in cancer. You can read more about areas of specific research interest [here](https://cancerdata.ucd.ie/research/). 
 
 The ideal candidate for these roles will have good programming and analytics skills and prior experience in the use of data-integration approaches to understand biology. Prior experience of cancer biology or genetic interactions is a plus, but certainly not a prerequisite for the roles. 
 

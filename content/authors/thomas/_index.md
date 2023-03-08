@@ -8,7 +8,7 @@ slug: thomaslefeivre
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
