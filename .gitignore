@@ -13,3 +13,8 @@ go.sum
 .DS_Store
 content/.DS_Store
 .DS_Store
+.DS_Store
+assets/.DS_Store
+content/.DS_Store
+static/.DS_Store
+static/.DS_Store
