@@ -10,7 +10,7 @@ weight: 1
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD in Computational Biology
       institution: University College Dublin
-      year: 2012
+      year: 2013
     - course: BSc in Computer Science
       institution: Trinity College Dublin
       year: 2005
@@ -71,4 +71,4 @@ user_groups:
  
 ---
 
-Colm leads the UCD Cancer Data Lab where his group develop computational approaches to understand how mutations in cancer alter molecular interaction networks and to identify ways to target these alterations therapeutically. Colm is an Assistant Professor in the UCD School of Computer Science, a Senior Fellow in the Conway Institute of Biomolecular and Biomedical Research, and an Irish Research Council Laureate. Colm is also Deputy Head of Node for ELIXIR Ireland and an Investigator at Systems Biology Ireland. He has a degree in Computer Science from Trinity College Dublin and worked as a software developer for IBM before completing a PhD in computational biology at University College Dublin. 
+Colm leads the UCD Cancer Data Lab where his group develop computational approaches to understand how mutations in cancer alter molecular interaction networks and to identify ways to target these alterations therapeutically. Colm is an Associate Professor in Bioinformatics in the UCD School of Medicine, a Senior Fellow in the Conway Institute of Biomolecular and Biomedical Research, and an Irish Research Council Laureate. Colm is also Deputy Head of Node for ELIXIR Ireland and an Investigator at Systems Biology Ireland. He has a degree in Computer Science from Trinity College Dublin and worked as a software developer for IBM before completing a PhD in computational biology at University College Dublin. 
