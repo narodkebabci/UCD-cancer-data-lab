@@ -1,5 +1,10 @@
 ---
 title: "Paralog protein compensation preserves protein-protein interaction networks following gene loss in cancer"
+
+date: '2024-09-29T00:00:00Z'
+
+publishDate: 2024-10-01T20:00:28.503411Z
+
 authors:
   - anjan
   - Niall Quinn
@@ -11,7 +16,6 @@ authors:
   - Kieran Wynne
   - Alexander von Kriegsheim
   - colm
-date: "2024-09-29T00:00:00Z"
 
 publication_types: ["3"]
 
@@ -27,9 +31,9 @@ abstract: "Proteins operate within dense interconnected networks, where interact
 featured: false
 
 links:
-- name: Preprint
-  url: https://www.biorxiv.org/content/10.1101/2024.09.26.615228v1
-- name: Source Code
-  url: https://github.com/cancergenetics/proteomic_paralog_compensation
+  - name: Preprint
+    url: https://www.biorxiv.org/content/10.1101/2024.09.26.615228v1
+  - name: Source Code
+    url: https://github.com/cancergenetics/proteomic_paralog_compensation
 
 ---
